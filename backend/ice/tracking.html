@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8" />
+    <title>ICE Enterprises Tracking Iframe Template</title>
+    <link
+      href="./styles.css"
+      rel="stylesheet"
+    />
+    <style>
+      @media (max-width: 768px) {
+        /* Styles for small screens */
+        .input-group {
+          flex-direction: column;
+          align-items: stretch;
+        }
+        .form,
+        .dropdown-menu {
+          margin: 5px 0;
+        }
+      }
+      @media (max-width: 480px) {
+        /* Styles for mobile screens */
+        .input-group {
+          padding: 10px;
+        }
+        .form,
+        .dropdown-menu {
+          margin: 3px 0;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <h2 style="text-align: center; color:white;">Tracking</h2>
+    <script src="../../."></script>
+    <div class="input-group">
+      <input
+        type="text"
+        id="TrackingNumber"
+        class="form"
+        placeholder="Enter Tracking Number..."
+      />
+      <input
+        type="text"
+        id="dpd-postcode"
+        class="form"
+        placeholder="Enter DPD Postcode..."
+      />
+      <div class="dropdown">
+        <select id="courier-company" class="dropdown-menu">
+          <option value="not-selected">
+            ----- Please Select a Courier Company -----
+          </option>
+          <option value="ups">UPS</option>
+          <option value="dhl">DHL</option>
+          <option value="fedex">FedEx</option>
+          <option value="tcs">TCS</option>
+          <option value="dpd">DPD</option>
+          <option value="ffc">First Flight Courier</option>
+        </select>
+      </div>
+      <button type="button" class="btn-primary" onclick="track()">
+        <span class="placeholder">Track!</span>
+      </button>
+    </div>
+    <script>
+      function adjustElementWidths() {
+        // Measure the screen width
+        var screenWidth =
+          window.innerWidth ||
+          document.documentElement.clientWidth ||
+          document.body.clientWidth;
+
+        // Adjust the width of the elements
+        var primaryBtn = document.querySelector(".primary-btn");
+        var form = document.querySelector("form");
+
+        if (primaryBtn && form) {
+          primaryBtn.style.width = screenWidth - 100 + "px";
+          form.style.width = screenWidth - 100 + "px";
+        }
+      }
+
+      // Call the adjustElementWidths function after the document has finished loading
+      document.addEventListener("DOMContentLoaded", adjustElementWidths);
+    </script>
+  </body>
+</html>

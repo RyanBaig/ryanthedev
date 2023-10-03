@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+  </head>
+  <body>
+    <p id="query"></p>
+    <script src="../../scripts/arrays.js"></script>
+    <script>
+      // Get the current URL
+      const currentUrl = window.location.href;
+
+      // Create a URL object from the current URL
+      const url = new URL(currentUrl);
+
+      // Get the query parameter "q" from the URL
+      const searchTerm = url.searchParams.get("q"); // Use get() method
+
+      const res = document.getElementById("query");
+
+      if (searchTerm != null) {
+        // Assuming you have the array repoBadges defined in arrays.js
+        const filteredCategory = repoBadges.filter((badge) =>
+          badge.category.toLowerCase().includes(searchTerm.toLowerCase())
+        );
+
+        // Display the filtered results as a string
+        res.textContent = JSON.stringify(filteredCategory);
+      } else {
+        res.textContent = "No results found";
+      }
+    </script>
+  </body>
+</html>

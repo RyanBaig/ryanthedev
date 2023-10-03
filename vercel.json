@@ -1,0 +1,12 @@
+{
+  "cleanUrls": true,
+  "routes": [
+    {
+      "src": "/(.*)",
+      "headers": {
+        "Access-Control-Allow-Origin": "*"
+      }
+    }
+  ]
+}
+
