@@ -61,11 +61,13 @@
     <form id="form" action="">
       <input id="input" autocomplete="off" /><button>Send</button>
     </form>
-    <script src="./chat/socket.io/client-dist/socket.io.js"></script>
-    <script src="./chat/socket.io/client-dist/socket.io.min.js"></script>
+    <script src="./socket.io/client-dist/socket.io.js"></script>
+    <script src="./socket.io/client-dist/socket.io.min.js"></script>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+    <script src="https://cdn.socket.io/4.5.4/socket.io.js"></script>
     <script>
 
-      const socket = io('https://ryanthedev.vercel.app/chat/socket.io');  
+      const socket = io();  
       const form = document.getElementById("form");
       const input = document.getElementById("input");
       const messages = document.getElementById("messages");
