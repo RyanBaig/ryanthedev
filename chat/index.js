@@ -1,15 +1,16 @@
+
+const express = require("express");
+const { createServer } = require("http");
+const { join } = require("path");
+const { Server } = require("socket.io");
+const fs = require("fs");
+
 /**
  * Initializes an express server, sets up routes and event handlers for socket.io, and starts the server listening on port 3000.
  *
  * @return {undefined} No return value.
  */
 function index_js() {
-  const express = require("express");
-  const { createServer } = require("http");
-  const { join } = require("path");
-  const { Server } = require("socket.io");
-  const fs = require("fs");
-
   const app = express();
   const server = createServer(app);
   const io = new Server(server);
