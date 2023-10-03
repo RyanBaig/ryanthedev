@@ -2,7 +2,7 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width,initial-scale=1.0" />
-        <title>Socket.IO chat</title>
+        <title>Chatroom</title>
         <style>
       body {
         margin: 0;
@@ -61,7 +61,7 @@
         <form id="form" action="">
             <input id="input" autocomplete="off" /><button>Send</button>
         </form>
-        <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
+        <script src="/chat/node_modules/socket.io/client-dist/socket.io.js"></script>
         <script>
       const socket = io();
 
