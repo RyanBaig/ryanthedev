@@ -1,14 +1,17 @@
 
-const express = require("express");
-const { createServer } = require("http");
-const { join } = require("path");
-const { Server } = require("socket.io");
-const fs = require("fs");
+import express from "express";
+import { createServer } from "http";
+import { join } from "path";
+import { Server } from "socket.io";
+import fs from "fs";
+
+
 
 /**
- * Initializes an express server, sets up routes and event handlers for socket.io, and starts the server listening on port 3000.
+ * Initializes a server and sets up a chat application.
  *
- * @return {undefined} No return value.
+ * @param {type} paramName - description of parameter
+ * @return {type} description of return value
  */
 function index_js() {
   const app = express();
@@ -21,7 +24,7 @@ function index_js() {
 
   io.on("connection", (socket) => {
     // Read chat history from the 'messages.txt' file
-    fs.readFile("messages.txt", "utf8", (err, data) => {
+    fs.readFile("msgs.txt", "utf8", (err, data) => {
       if (err) {
         console.error(err);
         return;
