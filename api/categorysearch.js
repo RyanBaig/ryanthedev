@@ -1,5 +1,5 @@
 module.exports = (req, res) => {
-    const arrays = require("../scripts/arrays.js");
+    const arrays = require("https://ryanthedev.vercel.app/scripts/arrays.js");
     const searchTerm = req.query.q;
 
     const filteredCategory = arrays.repoBadges.filter((badge) =>
