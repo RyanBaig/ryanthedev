@@ -3,7 +3,7 @@
   "functions": {
     "backend/badgegenerator/categorysearch.js": {
       "maxDuration": 5,
-    "backend/badgegenerator/badgesearch.js" {
+    "backend/badgegenerator/badgesearch.js": {
       "maxDuration": 5
     }
     }
