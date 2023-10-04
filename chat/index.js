@@ -13,7 +13,7 @@ import fs from "fs";
  * @param {type} paramName - description of parameter
  * @return {type} description of return value
  */
-function index_js() {
+function StartWebApp() {
   const app = express();
   const server = createServer(app);
   const io = new Server(server);
