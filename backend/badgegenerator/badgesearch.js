@@ -1,4 +1,4 @@
-import repoBadges from "../scripts/arrays.js"; // Import the 'repoBadges' array
+import repoBadges from "../../scripts/arrays.js"; // Import the 'repoBadges' array
 
 module.exports = (req, res) => {
   try {
@@ -9,11 +9,11 @@ module.exports = (req, res) => {
       throw new Error("Repo badges data is not an array.");
     }
 
-    const filteredCategory = repoBadges.filter((badge) =>
-      badge.category.toLowerCase().includes(searchTerm.toLowerCase())
+    const filteredBadge = repoBadges.filter((badge) =>
+      badge.name.toLowerCase().includes(searchTerm.toLowerCase())
     );
 
-    res.json(filteredCategory);
+    res.json(filteredBadge);
   } catch (error) {
     console.error("Error in serverless function:", error);
     res.status(500).json({ error: "Internal server error" });
