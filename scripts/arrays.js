@@ -4864,3 +4864,5 @@ const repoBadges = [
       "[](https%3A//img.shields.io/badge/UpWork-6FDA44%3Fstyle%3Dfor-the-badge%26logo%3DUpwork%26logoColor%3Dwhite)",
   },
 ];
+
+module.exports.repoBadges = repoBadges;
