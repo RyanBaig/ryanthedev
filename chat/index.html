@@ -2,14 +2,10 @@
 <html>
   <head>
     <script type="module">
-      
-
 import { createServer } from "http";
 import { join } from "path";
 import { Server } from "socket.io";
 import fs from "fs";
-
-
 
 /**
  * Initializes a server and sets up a chat application.
@@ -123,7 +119,6 @@ function StartWebApp() {
     <script src="https://cdn.socket.io/4.5.4/socket.io.min.js"></script>
     <script src="https://cdn.socket.io/4.5.4/socket.io.js"></script>
     <script>
-      StartWebApp()
 
       const socket = io();  
       const form = document.getElementById("form");
