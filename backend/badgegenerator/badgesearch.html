@@ -28,9 +28,9 @@
         );
 
         // Display the filtered results as JSON
-        let response = res.textContent = JSON.stringify(filteredBadges);
+        let responses = res.textContent = JSON.stringify(filteredBadges);
         res.innerHTML = JSON.stringify(filteredBadges);
-        return response
+        return responses
       } else {
         res.textContent = "No results found";
       }
