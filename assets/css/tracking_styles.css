@@ -1,13 +1,12 @@
-
-
 .input-group {
   border: 1px solid #ccc;
-  padding: 15px;
-  width: 100%;
+  padding: 15px 15px 15px 15px;
+  width: auto;
+  height: auto;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
-  border-color: transparent;
+  border-color: black;
 }
 
 .form {
@@ -50,7 +49,7 @@
   background-color: #007bff;
   border-color: #007bff;
   border-radius: 5px;
-  padding: 5px;
+  padding: 15px;
   height: 30px;
   color: #fff;
 }
@@ -71,7 +70,6 @@
   align-items: center;
   border-top-left-radius: 0;
   border-bottom-left-radius: 0;
-  padding: 20px;
   margin: 5px;
   flex: 1;
 }
@@ -79,5 +77,5 @@
 .primary-btn,
 form {
   /* default width */
-  width: 100px;
+  width: auto;
 }

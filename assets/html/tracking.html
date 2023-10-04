@@ -6,7 +6,7 @@
     <link
       href="https://ryanthedev.vercel.app/assets/css/tracking_styles.css"
       rel="stylesheet"
-    />
+      />
     <style>
       @media (max-width: 768px) {
         /* Styles for small screens */
@@ -14,8 +14,11 @@
           flex-direction: column;
           align-items: stretch;
         }
+        .dropdown {
+          align-self: stretch;
+        }
         .form,
-        .dropdown-menu {
+        .dropdown {
           margin: 5px 0;
         }
       }
@@ -25,28 +28,30 @@
           padding: 10px;
         }
         .form,
-        .dropdown-menu {
+        .dropdown {
           margin: 3px 0;
         }
       }
     </style>
   </head>
   <body>
-    <h2 style="text-align: center; color:white;">Tracking</h2>
-    <script src="https://ryanthedev.vercel.app/assets/js/ice-tracking-script.js"></script>
+    <h2 style="text-align: center; color:black;">Tracking</h2>
+    <script
+      src="https://ryanthedev.vercel.app/assets/js/ice-tracking-script.js"></script>
     <div class="input-group">
+      
       <input
         type="text"
         id="TrackingNumber"
         class="form"
         placeholder="Enter Tracking Number..."
-      />
+        />
       <input
         type="text"
         id="dpd-postcode"
         class="form"
         placeholder="Enter DPD Postcode..."
-      />
+        />
       <div class="dropdown">
         <select id="courier-company" class="dropdown-menu">
           <option value="not-selected">
