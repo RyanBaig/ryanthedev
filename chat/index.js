@@ -1,5 +1,5 @@
 
-import express from "express";
+
 import { createServer } from "http";
 import { join } from "path";
 import { Server } from "socket.io";
@@ -14,13 +14,9 @@ import fs from "fs";
  * @return {type} description of return value
  */
 function StartWebApp() {
-  const app = express();
-  const server = createServer(app);
+  const server = createServer();
   const io = new Server(server);
 
-  app.get("/", (req, res) => {
-    res.sendFile(join(__dirname, "index.html"));
-  });
 
   io.on("connection", (socket) => {
     // Read chat history from the 'messages.txt' file
