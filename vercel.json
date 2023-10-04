@@ -1,10 +1,10 @@
 {
   "cleanUrls": true,
   "functions": {
-    "backend/api/badgegenerator/categorysearch.js": {
+    "api/badgegenerator/categorysearch.js": {
       "maxDuration": 5
     },
-    "backend/api/badgegenerator/badgesearch.js": {
+    "api/badgegenerator/badgesearch.js": {
       "maxDuration": 5
     }
   }
