@@ -4865,4 +4865,4 @@ const repoBadges = [
   },
 ];
 
-module.exports.repoBadges = repoBadges;
+module.exports = repoBadges;
