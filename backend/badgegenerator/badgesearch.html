@@ -27,8 +27,10 @@
           badge.name.toLowerCase().includes(searchTerm.toLowerCase())
         );
 
-        // Display the filtered results as a string
-        res.textContent = JSON.stringify(filteredBadges);
+        // Display the filtered results as JSON
+        let response = res.textContent = JSON.stringify(filteredBadges);
+        res.innerHTML = JSON.stringify(filteredBadges);
+        return response
       } else {
         res.textContent = "No results found";
       }
