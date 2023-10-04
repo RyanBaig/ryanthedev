@@ -4,5 +4,11 @@
     "api/categorysearch.js": {
       "maxDuration": 5
     }
-  }
+  },
+  "routes": [
+    {
+      "src":"/api/categorysearch",
+      "dest":"/backend/api/categorysearch.js"
+    }
+  ]
 }
