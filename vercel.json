@@ -1,9 +1,8 @@
 {
   "cleanUrls": true,
-  "routes": [
-    {
-      "src": "/api/categorysearch",
-      "dest": "backend/api/categorysearch.js"
+  "functions": {
+    "api/categorysearch.js": {
+      "maxDuration": 5
     }
-  ]
+  }
 }
