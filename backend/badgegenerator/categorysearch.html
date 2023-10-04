@@ -4,38 +4,39 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>Filtered Categories</title>
   </head>
   <body>
-    <p id="query"></p>
     <script src="../../scripts/arrays.js"></script>
     <script>
       function search() {
+        // Get the current URL
+        const currentUrl = window.location.href;
 
-      // Get the current URL
-      const currentUrl = window.location.href;
+        // Create a URL object from the current URL
+        const url = new URL(currentUrl);
 
-      // Create a URL object from the current URL
-      const url = new URL(currentUrl);
+        // Get the query parameter "q" from the URL
+        const searchTerm = url.searchParams.get("q"); // Use get() method
 
-      // Get the query parameter "q" from the URL
-      const searchTerm = url.searchParams.get("q"); // Use get() method
+        if (searchTerm != null) {
+          // Assuming you have the array repoBadges defined in arrays.js
+          const filteredCategory = repoBadges.filter((badge) =>
+            badge.category.toLowerCase().includes(searchTerm.toLowerCase())
+          );
 
-      const res = document.getElementById("query");
-
-      if (searchTerm != null) {
-        // Assuming you have the array repoBadges defined in arrays.js
-        const filteredCategory = repoBadges.filter((badge) =>
-          badge.category.toLowerCase().includes(searchTerm.toLowerCase())
-        );
-
-        // Display the filtered results as a string
-        res.textContent = JSON.stringify(filteredCategory);
-        return JSON.stringify(filteredCategory);
-      } else {
-        res.textContent = "No results found";
+          // Return the filtered results as JSON
+          return JSON.stringify(filteredCategory);
+        } else {
+          // If no search term is provided, return an empty JSON array
+          return JSON.stringify([]);
+        }
       }
-    }
+
+      // Call the search function and set the response as the page content
+      const result = search();
+      const resElement = document.getElementById("query");
+      resElement.textContent = result;
     </script>
   </body>
 </html>
