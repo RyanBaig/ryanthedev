@@ -7,8 +7,8 @@
   },
   "routes": [
     {
-      "src":"/api/categorysearch",
-      "dest":"/backend/api/categorysearch.js"
+      "src": "/api/categorysearch",
+      "dest": "backend/api/categorysearch.js"
     }
   ]
 }
