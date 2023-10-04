@@ -1,3 +1,24 @@
 {
-  "cleanUrls": true
+  "cleanUrls": true,
+  "version": 2,
+  "builds": [
+    {
+      "src": "api/**/*.js",
+      "use": "@vercel/node"
+    },
+    {
+      "src": "backend/badgegenerator/categorysearch.html", 
+      "use": "@vercel/static"
+    }
+  ],
+  "routes": [
+    {
+      "src": "/api/search",
+      "dest": "/api/search.js" 
+    },
+    {
+      "src": "/backend/badgegenerator/categorysearch.html",
+      "dest": "/backend/badgegenerator/categorysearch.html" 
+    }
+  ]
 }
