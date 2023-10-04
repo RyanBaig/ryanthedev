@@ -29,6 +29,7 @@
 
         // Display the filtered results as a string
         res.textContent = JSON.stringify(filteredCategory);
+        return JSON.stringify(filteredCategory);
       } else {
         res.textContent = "No results found";
       }
