@@ -1,4 +1,4 @@
-import repoBadges from "https://ryanthedev.vercel.app/scripts/arrays.js"; // Import the 'repoBadges' array
+import repoBadges from "./arrays.js"; // Import the 'repoBadges' array
 
 function badgeSearch(req, res) {
   try {
