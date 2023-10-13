@@ -5,7 +5,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/amazon%2520alexa-52b5f7?style%3Dfor-the-badge%26logo%3Damazon%2520alexa%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/amazon%2520alexa-52b5f7?style=for-the-badge&logo=amazon%2520alexa&logoColor=white)",
   },
   {
     name: "ChatGPT",
@@ -13,7 +13,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/chatGPT-74aa9c?style%3Dfor-the-badge%26logo%3Dopenai%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=w20assistant%hite)",
   },
   {
     name: "Dependabot",
@@ -21,7 +21,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/dependabot-025E8C?style%3Dfor-the-badge%26logo%3Ddependabot%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/dependabot-025E8C?style=for-the-badge&logo=dependabot&logoColor=white)",
   },
   {
     name: "Google Assistant",
@@ -29,7 +29,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/google%2520assistant-4285F4?style%3Dfor-the-badge%26logo%3Dgoogle%2520assistant%26logoColor%3Dwhite)",
+      "https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white",
   },
   {
     name: "Hyperledger",
@@ -37,7 +37,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/hyperledger-2F3134?style%3Dfor-the-badge%26logo%3Dhyperledger%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/hyperledger-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white)",
   },
   {
     name: "Blogger",
@@ -45,7 +45,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Blogger-FF5722?style%3Dfor-the-badge%26logo%3Dblogger%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)",
   },
   {
     name: "Dev",
@@ -53,7 +53,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/dev.to-0A0A0A?style%3Dfor-the-badge%26logo%3Ddev.to%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)",
   },
   {
     name: "Ghost",
@@ -61,7 +61,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%23F7DF1E",
     markdown:
-      "[](https://img.shields.io/badge/ghost-000?style%3Dfor-the-badge%26logo%3Dghost%26logoColor%3D%2523F7DF1E)",
+      "[](https://img.shields.io/badge/ghost-000?style=for-the-badge&logo=ghost&logoColor=%2523F7DF1E)",
   },
   {
     name: "hashnode",
@@ -69,7 +69,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Hashnode-2962FF?style%3Dfor-the-badge%26logo%3Dhashnode%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)",
   },
   {
     name: "Medium",
@@ -77,7 +77,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Medium-12100E?style%3Dfor-the-badge%26logo%3Dmedium%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)",
   },
   {
     name: "Micro.blog",
@@ -85,7 +85,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Micro.blog-FF8800?style%3Dfor-the-badge%26logo%3Dmicro.blog%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Micro.blog-FF8800?style=for-the-badge&logo=micro.blog&logoColor=white)",
   },
   {
     name: "Rss",
@@ -93,7 +93,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rss-F88900?style%3Dfor-the-badge%26logo%3Drss%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)",
   },
   {
     name: "Substack",
@@ -101,7 +101,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Substack-%23006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719",
     markdown:
-      "[](https://img.shields.io/badge/Substack-%2523006f5c.svg?style%3Dfor-the-badge%26logo%3Dsubstack%26logoColor%3DFF6719)",
+      "[](https://img.shields.io/badge/Substack-%2523006f5c.svg?style=for-the-badge&logo=substack&logoColor=FF6719)",
   },
   {
     name: "Wix",
@@ -109,7 +109,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/wix-000?style%3Dfor-the-badge%26logo%3Dwix%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/wix-000?style=for-the-badge&logo=wix&logoColor=white)",
   },
   {
     name: "Brave",
@@ -117,7 +117,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Brave-FB542B?style%3Dfor-the-badge%26logo%3DBrave%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)",
   },
   {
     name: "Edge",
@@ -125,7 +125,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Edge-0078D7?style%3Dfor-the-badge%26logo%3DMicrosoft-edge%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white)",
   },
   {
     name: "Firefox",
@@ -133,7 +133,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Firefox-FF7139?style%3Dfor-the-badge%26logo%3DFirefox%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Firefox-FF7139?style=for-the-badge&logo=Firefox&logoColor=white)",
   },
   {
     name: "Google Chrome",
@@ -141,7 +141,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Google%2520Chrome-4285F4?style%3Dfor-the-badge%26logo%3DGoogleChrome%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Google%2520Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white)",
   },
   {
     name: "IE",
@@ -149,7 +149,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Internet%20Explorer-0076D6?style=for-the-badge&logo=Internet%20Explorer&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Internet%2520Explorer-0076D6?style%3Dfor-the-badge%26logo%3DInternet%2520Explorer%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Internet%2520Explorer-0076D6?style=for-the-badge&logo=Internet%2520Explorer&logoColor=white)",
   },
   {
     name: "Opera",
@@ -157,7 +157,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Opera-FF1B2D?style%3Dfor-the-badge%26logo%3DOpera%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Opera-FF1B2D?style=for-the-badge&logo=Opera&logoColor=white)",
   },
   {
     name: "Safari",
@@ -165,7 +165,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Safari-000000?style%3Dfor-the-badge%26logo%3DSafari%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white)",
   },
   {
     name: "Tor",
@@ -173,7 +173,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Tor-7D4698?style%3Dfor-the-badge%26logo%3DTor-Browser%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)",
   },
   {
     name: "Vivaldi",
@@ -181,7 +181,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Vivaldi-EF3939?style%3Dfor-the-badge%26logo%3DVivaldi%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Vivaldi-EF3939?style=for-the-badge&logo=Vivaldi&logoColor=white)",
   },
   {
     name: "CircleCI",
@@ -189,7 +189,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/circleci-%23161616.svg?style=for-the-badge&logo=circleci&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/circleci-%2523161616.svg?style%3Dfor-the-badge%26logo%3Dcircleci%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/circleci-%2523161616.svg?style=for-the-badge&logo=circleci&logoColor=white)",
   },
   {
     name: "ChipperCI",
@@ -197,7 +197,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/chipperci-1e394e.svg?style%3Dfor-the-badge%26logo%3Dchipperci%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/chipperci-1e394e.svg?style=for-the-badge&logo=chipperci&logoColor=white)",
   },
   {
     name: "CloudBees",
@@ -205,7 +205,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge",
     markdown:
-      "[](https://img.shields.io/badge/CloudBees-1997B5%26?logo%3Dcloudbees%26logoColor%3Dwhite%26style%3Dfor-the-badge)",
+      "[](https://img.shields.io/badge/CloudBees-1997B5&?logo=cloudbees&logoColor=white&style=for-the-badge)",
   },
   {
     name: "GitLab CI",
@@ -213,7 +213,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/gitlab%20CI-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/gitlab%2520CI-%2523181717.svg?style%3Dfor-the-badge%26logo%3Dgitlab%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/gitlab%2520CI-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)",
   },
   {
     name: "GitHub Actions",
@@ -221,7 +221,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/github%2520actions-%25232671E5.svg?style%3Dfor-the-badge%26logo%3Dgithubactions%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/github%2520actions-%25232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)",
   },
   {
     name: "TeamCity",
@@ -229,7 +229,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/teamcity-000000.svg?style%3Dfor-the-badge%26logo%3Dteamcity%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/teamcity-000000.svg?style=for-the-badge&logo=teamcity&logoColor=white)",
   },
   {
     name: "Travis CI",
@@ -237,7 +237,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/travis%20ci-%232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/travis%2520ci-%25232B2F33.svg?style%3Dfor-the-badge%26logo%3Dtravis%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/travis%2520ci-%25232B2F33.svg?style=for-the-badge&logo=travis&logoColor=white)",
   },
   {
     name: "Octopus Deploy",
@@ -245,7 +245,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/octopus%20deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/octopus%2520deploy-0D80D8?style%3Dfor-the-badge%26logo%3Doctopusdeploy%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/octopus%2520deploy-0D80D8?style=for-the-badge&logo=octopusdeploy&logoColor=white)",
   },
   {
     name: "Dropbox",
@@ -253,7 +253,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Dropbox-%233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Dropbox-%25233B4D98.svg?style%3Dfor-the-badge%26logo%3DDropbox%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Dropbox-%25233B4D98.svg?style=for-the-badge&logo=Dropbox&logoColor=white)",
   },
   {
     name: "Google Drive",
@@ -261,7 +261,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Google%20Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Google%2520Drive-4285F4?style%3Dfor-the-badge%26logo%3Dgoogledrive%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Google%2520Drive-4285F4?style=for-the-badge&logo=googledrive&logoColor=white)",
   },
   {
     name: "Mega.nz",
@@ -269,7 +269,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Mega-%23D90007.svg?style=for-the-badge&logo=Mega&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Mega-%2523D90007.svg?style%3Dfor-the-badge%26logo%3DMega%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Mega-%2523D90007.svg?style=for-the-badge&logo=Mega&logoColor=white)",
   },
   {
     name: "Microsoft OneDrive",
@@ -277,7 +277,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%20OneDrive&logoColor=0078D4",
     markdown:
-      "[](https://img.shields.io/badge/OneDrive-white?style%3Dfor-the-badge%26logo%3DMicrosoft%2520OneDrive%26logoColor%3D0078D4)",
+      "[](https://img.shields.io/badge/OneDrive-white?style=for-the-badge&logo=Microsoft%2520OneDrive&logoColor=0078D4)",
   },
   {
     name: "Next Cloud",
@@ -285,7 +285,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Next%20Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Next%2520Cloud-0B94DE?style%3Dfor-the-badge%26logo%3Dnextcloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Next%2520Cloud-0B94DE?style=for-the-badge&logo=nextcloud&logoColor=white)",
   },
   {
     name: "OneDrive",
@@ -293,7 +293,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OneDrive-0078D4.svg?style%3Dfor-the-badge%26logo%3Dmicrosoftonedrive%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OneDrive-0078D4.svg?style=for-the-badge&logo=microsoftonedrive&logoColor=white)",
   },
   {
     name: "Proton Drive",
@@ -301,7 +301,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Proton%20Drive-6d4aff?style=for-the-badge&logo=proton%20drive&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Proton%2520Drive-6d4aff?style%3Dfor-the-badge%26logo%3Dproton%2520drive%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Proton%2520Drive-6d4aff?style=for-the-badge&logo=proton%2520drive&logoColor=white)",
   },
   {
     name: "Amp",
@@ -309,7 +309,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Amp-005AF0?style%3Dfor-the-badge%26logo%3Damp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Amp-005AF0?style=for-the-badge&logo=amp&logoColor=white)",
   },
   {
     name: "Bitcoin",
@@ -317,7 +317,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Bitcoin-000?style%3Dfor-the-badge%26logo%3Dbitcoin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Bitcoin-000?style=for-the-badge&logo=bitcoin&logoColor=white)",
   },
   {
     name: "Bitcoin Cash",
@@ -325,7 +325,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Bitcoin%20Cash-0AC18E?style=for-the-badge&logo=Bitcoin%20Cash&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Bitcoin%2520Cash-0AC18E?style%3Dfor-the-badge%26logo%3DBitcoin%2520Cash%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Bitcoin%2520Cash-0AC18E?style=for-the-badge&logo=Bitcoin%2520Cash&logoColor=white)",
   },
   {
     name: "Bitcoin SV",
@@ -333,7 +333,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Bitcoin%20SV-EAB300?style=for-the-badge&logo=Bitcoin%20SV&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Bitcoin%2520SV-EAB300?style%3Dfor-the-badge%26logo%3DBitcoin%2520SV%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Bitcoin%2520SV-EAB300?style=for-the-badge&logo=Bitcoin%2520SV&logoColor=white)",
   },
   {
     name: "Binance",
@@ -341,7 +341,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Binance-FCD535?style%3Dfor-the-badge%26logo%3Dbinance%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Binance-FCD535?style=for-the-badge&logo=binance&logoColor=white)",
   },
   {
     name: "Chainlink",
@@ -349,7 +349,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Chainlink-375BD2?style%3Dfor-the-badge%26logo%3DChainlink%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Chainlink-375BD2?style=for-the-badge&logo=Chainlink&logoColor=white)",
   },
   {
     name: "DogeCoin",
@@ -357,7 +357,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/dogecoin-B59A30?style%3Dfor-the-badge%26logo%3Ddogecoin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/dogecoin-B59A30?style=for-the-badge&logo=dogecoin&logoColor=white)",
   },
   {
     name: "Dash",
@@ -365,7 +365,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/dash-008DE4?style%3Dfor-the-badge%26logo%3Ddash%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/dash-008DE4?style=for-the-badge&logo=dash&logoColor=white)",
   },
   {
     name: "Ethereum",
@@ -373,7 +373,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Ethereum-3C3C3D?style%3Dfor-the-badge%26logo%3DEthereum%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=Ethereum&logoColor=white)",
   },
   {
     name: "Iota",
@@ -381,7 +381,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/iota-29334C?style%3Dfor-the-badge%26logo%3Diota%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/iota-29334C?style=for-the-badge&logo=iota&logoColor=white)",
   },
   {
     name: "Litecoin",
@@ -389,7 +389,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Litecoin-A6A9AA?style%3Dfor-the-badge%26logo%3DLitecoin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Litecoin-A6A9AA?style=for-the-badge&logo=Litecoin&logoColor=white)",
   },
   {
     name: "Monero",
@@ -397,7 +397,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/monero-FF6600?style%3Dfor-the-badge%26logo%3Dmonero%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/monero-FF6600?style=for-the-badge&logo=monero&logoColor=white)",
   },
   {
     name: "Polkadot",
@@ -405,7 +405,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/polkadot-E6007A?style%3Dfor-the-badge%26logo%3Dpolkadot%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/polkadot-E6007A?style=for-the-badge&logo=polkadot&logoColor=white)",
   },
   {
     name: "Stellar",
@@ -413,7 +413,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Stellar-7D00FF?style%3Dfor-the-badge%26logo%3DStellar%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Stellar-7D00FF?style=for-the-badge&logo=Stellar&logoColor=white)",
   },
   {
     name: "Tether",
@@ -421,7 +421,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/tether-168363?style%3Dfor-the-badge%26logo%3Dtether%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/tether-168363?style=for-the-badge&logo=tether&logoColor=white)",
   },
   {
     name: "Xrp",
@@ -429,7 +429,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Xrp-black?style%3Dfor-the-badge%26logo%3Dxrp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Xrp-black?style=for-the-badge&logo=xrp&logoColor=white)",
   },
   {
     name: "Z Cash",
@@ -437,7 +437,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Zcash-F4B728?style%3Dfor-the-badge%26logo%3Dzcash%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Zcash-F4B728?style=for-the-badge&logo=zcash&logoColor=white)",
   },
   {
     name: "Amazon DynamoDB",
@@ -445,7 +445,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Amazon%20DynamoDB-4053D6?style=for-the-badge&logo=Amazon%20DynamoDB&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Amazon%2520DynamoDB-4053D6?style%3Dfor-the-badge%26logo%3DAmazon%2520DynamoDB%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Amazon%2520DynamoDB-4053D6?style=for-the-badge&logo=Amazon%2520DynamoDB&logoColor=white)",
   },
   {
     name: "Cassandra",
@@ -453,7 +453,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/cassandra-%231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/cassandra-%25231287B1.svg?style%3Dfor-the-badge%26logo%3Dapache-cassandra%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/cassandra-%25231287B1.svg?style=for-the-badge&logo=apache-cassandra&logoColor=white)",
   },
   {
     name: "Cockroach Labs",
@@ -461,7 +461,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Cockroach%20Labs-6933FF?style=for-the-badge&logo=Cockroach%20Labs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Cockroach%2520Labs-6933FF?style%3Dfor-the-badge%26logo%3DCockroach%2520Labs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Cockroach%2520Labs-6933FF?style=for-the-badge&logo=Cockroach%2520Labs&logoColor=white)",
   },
   {
     name: "Couchbase",
@@ -469,7 +469,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Couchbase-EA2328?style%3Dfor-the-badge%26logo%3Dcouchbase%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Couchbase-EA2328?style=for-the-badge&logo=couchbase&logoColor=white)",
   },
   {
     name: "Firebase",
@@ -477,7 +477,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Firebase-039BE5?style%3Dfor-the-badge%26logo%3DFirebase%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)",
   },
   {
     name: "InfluxDB",
@@ -485,7 +485,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/InfluxDB-22ADF6?style%3Dfor-the-badge%26logo%3DInfluxDB%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)",
   },
   {
     name: "MariaDB",
@@ -493,7 +493,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/MariaDB-003545?style%3Dfor-the-badge%26logo%3Dmariadb%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)",
   },
   {
     name: "MusicBrainz",
@@ -501,7 +501,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F",
     markdown:
-      "[](https://img.shields.io/badge/Musicbrainz-EB743B?style%3Dfor-the-badge%26logo%3Dmusicbrainz%26logoColor%3DBA478F)",
+      "[](https://img.shields.io/badge/Musicbrainz-EB743B?style=for-the-badge&logo=musicbrainz&logoColor=BA478F)",
   },
   {
     name: "Microsoft SQL Server",
@@ -509,7 +509,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft%2520SQL%2520Server-CC2927?style%3Dfor-the-badge%26logo%3Dmicrosoft%2520sql%2520server%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft%2520SQL%2520Server-CC2927?style=for-the-badge&logo=microsoft%2520sql%2520server&logoColor=white)",
   },
   {
     name: "MongoDB",
@@ -517,7 +517,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style%3Dfor-the-badge%26logo%3Dmongodb%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/MongoDB-%25234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)",
   },
   {
     name: "MySQL",
@@ -525,7 +525,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/mysql-%252300000f.svg?style%3Dfor-the-badge%26logo%3Dmysql%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/mysql-%252300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)",
   },
   {
     name: "Neo4J",
@@ -533,7 +533,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Neo4j-008CC1?style%3Dfor-the-badge%26logo%3Dneo4j%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Neo4j-008CC1?style=for-the-badge&logo=neo4j&logoColor=white)",
   },
   {
     name: "PlanetScale",
@@ -541,7 +541,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/planetscale-%23000000.svg?style=for-the-badge&logo=planetscale&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/planetscale-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dplanetscale%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/planetscale-%2523000000.svg?style=for-the-badge&logo=planetscale&logoColor=white)",
   },
   {
     name: "PostgresDB",
@@ -549,7 +549,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/postgres-%2523316192.svg?style%3Dfor-the-badge%26logo%3Dpostgresql%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/postgres-%2523316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)",
   },
   {
     name: "Realm",
@@ -557,7 +557,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Realm-39477F?style%3Dfor-the-badge%26logo%3Drealm%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Realm-39477F?style=for-the-badge&logo=realm&logoColor=white)",
   },
   {
     name: "Redis",
@@ -565,7 +565,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/redis-%2523DD0031.svg?style%3Dfor-the-badge%26logo%3Dredis%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/redis-%2523DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)",
   },
   {
     name: "Single Store",
@@ -573,7 +573,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Single%20Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Single%2520Store-AA00FF?style%3Dfor-the-badge%26logo%3Dsinglestore%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Single%2520Store-AA00FF?style=for-the-badge&logo=singlestore&logoColor=white)",
   },
   {
     name: "SQLite",
@@ -581,7 +581,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/sqlite-%252307405e.svg?style%3Dfor-the-badge%26logo%3Dsqlite%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/sqlite-%252307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)",
   },
   {
     name: "Supabase",
@@ -589,7 +589,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Supabase-3ECF8E?style%3Dfor-the-badge%26logo%3Dsupabase%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)",
   },
   {
     name: "SurrealDB",
@@ -597,7 +597,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SurrealDB-FF00A0?style%3Dfor-the-badge%26logo%3Dsurrealdb%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white)",
   },
   {
     name: "Teradata",
@@ -605,7 +605,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Teradata-F37440?style%3Dfor-the-badge%26logo%3Dteradata%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Teradata-F37440?style=for-the-badge&logo=teradata&logoColor=white)",
   },
   {
     name: "Adobe",
@@ -613,7 +613,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/adobe-%2523FF0000.svg?style%3Dfor-the-badge%26logo%3Dadobe%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/adobe-%2523FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white)",
   },
   {
     name: "Adobe Acrobat Reader",
@@ -621,7 +621,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Acrobat%20Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%20Acrobat%20Reader&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Acrobat%2520Reader-EC1C24.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Acrobat%2520Reader%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Acrobat%2520Reader-EC1C24.svg?style=for-the-badge&logo=Adobe%2520Acrobat%2520Reader&logoColor=white)",
   },
   {
     name: "Adobe After Effects",
@@ -629,7 +629,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520After%2520Effects-9999FF.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520After%2520Effects%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520After%2520Effects-9999FF.svg?style=for-the-badge&logo=Adobe%2520After%2520Effects&logoColor=white)",
   },
   {
     name: "Adobe Audition",
@@ -637,7 +637,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Audition-9999FF.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Audition%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Audition-9999FF.svg?style=for-the-badge&logo=Adobe%2520Audition&logoColor=white)",
   },
   {
     name: "Adobe Creative Cloud",
@@ -645,7 +645,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Creative%2520Cloud-DA1F26.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Creative%2520Cloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Creative%2520Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%2520Creative%2520Cloud&logoColor=white)",
   },
   {
     name: "Adobe Dreamweaver",
@@ -653,7 +653,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%20Dreamweaver&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Dreamweaver-FF61F6.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Dreamweaver%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Dreamweaver-FF61F6.svg?style=for-the-badge&logo=Adobe%2520Dreamweaver&logoColor=white)",
   },
   {
     name: "Adobe Fonts",
@@ -661,7 +661,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%20Fonts&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Fonts-000B1D.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Fonts%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Fonts-000B1D.svg?style=for-the-badge&logo=Adobe%2520Fonts&logoColor=white)",
   },
   {
     name: "Adobe Illustrator",
@@ -669,7 +669,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/adobe%2520illustrator-%2523FF9A00.svg?style%3Dfor-the-badge%26logo%3Dadobe%2520illustrator%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/adobe%2520illustrator-%2523FF9A00.svg?style=for-the-badge&logo=adobe%2520illustrator&logoColor=white)",
   },
   {
     name: "Adobe InDesign",
@@ -677,7 +677,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520InDesign-49021F?style%3Dfor-the-badge%26logo%3Dadobeindesign%26logoColor%3DFF3366)",
+      "[](https://img.shields.io/badge/Adobe%2520InDesign-49021F?style=for-the-badge&logo=adobeindesign&logoColor=FF3366)",
   },
   {
     name: "Adobe Lightroom",
@@ -685,7 +685,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Lightroom-31A8FF.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Lightroom%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%2520Lightroom&logoColor=white)",
   },
   {
     name: "Adobe Lightroom Classic",
@@ -693,7 +693,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Lightroom%2520Classic-31A8FF.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Lightroom%2520Classic%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Lightroom%2520Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%2520Lightroom%2520Classic&logoColor=white)",
   },
   {
     name: "Adobe Photoshop",
@@ -701,7 +701,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/adobe%2520photoshop-%252331A8FF.svg?style%3Dfor-the-badge%26logo%3Dadobe%2520photoshop%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/adobe%2520photoshop-%252331A8FF.svg?style=for-the-badge&logo=adobe%2520photoshop&logoColor=white)",
   },
   {
     name: "Adobe Premiere Pro",
@@ -709,7 +709,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520Premiere%2520Pro-9999FF.svg?style%3Dfor-the-badge%26logo%3DAdobe%2520Premiere%2520Pro%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Adobe%2520Premiere%2520Pro-9999FF.svg?style=for-the-badge&logo=Adobe%2520Premiere%2520Pro&logoColor=white)",
   },
   {
     name: "Adobe XD",
@@ -717,7 +717,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6",
     markdown:
-      "[](https://img.shields.io/badge/Adobe%2520XD-470137?style%3Dfor-the-badge%26logo%3DAdobe%2520XD%26logoColor%3D%23FF61F6)",
+      "[](https://img.shields.io/badge/Adobe%2520XD-470137?style=for-the-badge&logo=Adobe%2520XD&logoColor=%23FF61F6)",
   },
   {
     name: "Aseprite",
@@ -725,7 +725,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=#7D929E",
     markdown:
-      "[](https://img.shields.io/badge/Aseprite-FFFFFF?style%3Dfor-the-badge%26logo%3DAseprite%26logoColor%3D%237D929E)",
+      "[](https://img.shields.io/badge/Aseprite-FFFFFF?style=for-the-badge&logo=Aseprite&logoColor=%237D929E)",
   },
   {
     name: "Affinity Designer",
@@ -733,7 +733,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/affinity%20desginer-%231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/affinity%2520desginer-%25231B72BE.svg?style%3Dfor-the-badge%26logo%3Daffinity-designer%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/affinity%2520desginer-%25231B72BE.svg?style=for-the-badge&logo=affinity-designer&logoColor=white)",
   },
   {
     name: "Affinity Photo",
@@ -741,7 +741,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/affinityphoto-%237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/affinityphoto-%25237E4DD2.svg?style%3Dfor-the-badge%26logo%3Daffinity-photo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/affinityphoto-%25237E4DD2.svg?style=for-the-badge&logo=affinity-photo&logoColor=white)",
   },
   {
     name: "Blender",
@@ -749,7 +749,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/blender-%2523F5792A.svg?style%3Dfor-the-badge%26logo%3Dblender%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/blender-%2523F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)",
   },
   {
     name: "Canva",
@@ -757,7 +757,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Canva-%252300C4CC.svg?style%3Dfor-the-badge%26logo%3DCanva%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Canva-%252300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)",
   },
   {
     name: "Dribbble",
@@ -765,7 +765,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Dribbble-EA4C89?style%3Dfor-the-badge%26logo%3Ddribbble%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)",
   },
   {
     name: "Figma",
@@ -773,7 +773,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/figma-%2523F24E1E.svg?style%3Dfor-the-badge%26logo%3Dfigma%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/figma-%2523F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)",
   },
   {
     name: "Framer",
@@ -781,7 +781,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue",
     markdown:
-      "[](https://img.shields.io/badge/Framer-black?style%3Dfor-the-badge%26logo%3Dframer%26logoColor%3Dblue)",
+      "[](https://img.shields.io/badge/Framer-black?style=for-the-badge&logo=framer&logoColor=blue)",
   },
   {
     name: "Gimp",
@@ -789,7 +789,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF",
     markdown:
-      "[](https://img.shields.io/badge/Gimp-657D8B?style%3Dfor-the-badge%26logo%3Dgimp%26logoColor%3DFFFFFF)",
+      "[](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)",
   },
   {
     name: "Inkscape",
@@ -797,7 +797,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13",
     markdown:
-      "[](https://img.shields.io/badge/Inkscape-e0e0e0?style%3Dfor-the-badge%26logo%3Dinkscape%26logoColor%3D080A13)",
+      "[](https://img.shields.io/badge/Inkscape-e0e0e0?style=for-the-badge&logo=inkscape&logoColor=080A13)",
   },
   {
     name: "Invision",
@@ -805,7 +805,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/invision-FF3366?style%3Dfor-the-badge%26logo%3Dinvision%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/invision-FF3366?style=for-the-badge&logo=invision&logoColor=white)",
   },
   {
     name: "Krita",
@@ -813,7 +813,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B",
     markdown:
-      "[](https://img.shields.io/badge/Krita-203759?style%3Dfor-the-badge%26logo%3Dkrita%26logoColor%3DEEF37B)",
+      "[](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)",
   },
   {
     name: "Proto.io",
@@ -821,7 +821,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff",
     markdown:
-      "[](https://img.shields.io/badge/Proto.io-161637?style%3Dfor-the-badge%26logo%3Dproto.io%26logoColor%3D00e5ff)",
+      "[](https://img.shields.io/badge/Proto.io-161637?style=for-the-badge&logo=proto.io&logoColor=00e5ff)",
   },
   {
     name: "Sketch",
@@ -829,7 +829,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Sketch-FFB387?style%3Dfor-the-badge%26logo%3Dsketch%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Sketch-FFB387?style=for-the-badge&logo=sketch&logoColor=black)",
   },
   {
     name: "Storybook",
@@ -837,7 +837,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Storybook-FF4785?style%3Dfor-the-badge%26logo%3Dstorybook%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)",
   },
   {
     name: "CodeChef",
@@ -845,7 +845,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/CodeChef-%2523964B00.svg?style%3Dfor-the-badge%26logo%3DCodeChef%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/CodeChef-%2523964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white)",
   },
   {
     name: "Codeforces",
@@ -853,7 +853,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Codeforces-445f9d?style%3Dfor-the-badge%26logo%3DCodeforces%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)",
   },
   {
     name: "CodePen",
@@ -861,7 +861,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Codepen-000000?style%3Dfor-the-badge%26logo%3Dcodepen%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)",
   },
   {
     name: "Hackerearth",
@@ -869,7 +869,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue",
     markdown:
-      "[](https://img.shields.io/badge/HackerEarth-%25232C3454.svg?%26style%3Dfor-the-badge%26logo%3DHackerEarth%26logoColor%3DBlue)",
+      "[](https://img.shields.io/badge/HackerEarth-%25232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)",
   },
   {
     name: "Hackerrank",
@@ -877,7 +877,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Hackerrank-2EC866?style%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)",
   },
   {
     name: "LeetCode",
@@ -885,7 +885,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06",
     markdown:
-      "[](https://img.shields.io/badge/Leetcode-000000?style%3Dfor-the-badge%26logo%3DLeetCode%26logoColor%3D%23d16c06)",
+      "[](https://img.shields.io/badge/Leetcode-000000?style=for-the-badge&logo=LeetCode&logoColor=%23d16c06)",
   },
   {
     name: "Kaggle",
@@ -893,7 +893,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Kaggle-035a7d?style%3Dfor-the-badge%26logo%3Dkaggle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white)",
   },
   {
     name: "OnePlus Forums",
@@ -901,7 +901,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OnePlusForums-%23EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OnePlusForums-%2523EB0028.svg?style%3Dfor-the-badge%26logo%3DOnePlus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OnePlusForums-%2523EB0028.svg?style=for-the-badge&logo=OnePlus&logoColor=white)",
   },
   {
     name: "Quora",
@@ -909,7 +909,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Quora-%23B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Quora-%2523B92B27.svg?style%3Dfor-the-badge%26logo%3DQuora%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Quora-%2523B92B27.svg?style=for-the-badge&logo=Quora&logoColor=white)",
   },
   {
     name: "Reddit",
@@ -917,7 +917,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Reddit-%2523FF4500.svg?style%3Dfor-the-badge%26logo%3DReddit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Reddit-%2523FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)",
   },
   {
     name: "ResearchGate",
@@ -925,7 +925,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ResearchGate-00CCBB?style%3Dfor-the-badge%26logo%3DResearchGate%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white)",
   },
   {
     name: "Stack Exchange",
@@ -933,7 +933,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/StackExchange-%23ffffff.svg?style=for-the-badge&logo=StackExchange",
     markdown:
-      "[](https://img.shields.io/badge/StackExchange-%2523ffffff.svg?style%3Dfor-the-badge%26logo%3DStackExchange)",
+      "[](https://img.shields.io/badge/StackExchange-%2523ffffff.svg?style=for-the-badge&logo=StackExchange)",
   },
   {
     name: "Stack Overflow",
@@ -941,7 +941,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Stackoverflow-FE7A16?style%3Dfor-the-badge%26logo%3Dstack-overflow%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)",
   },
   {
     name: "XDA-Developers",
@@ -949,7 +949,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/XDA--Developers-%23AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/XDA--Developers-%2523AC6E2F.svg?style%3Dfor-the-badge%26logo%3DXDA-Developers%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/XDA--Developers-%2523AC6E2F.svg?style=for-the-badge&logo=XDA-Developers&logoColor=white)",
   },
   {
     name: "Bookstack",
@@ -957,7 +957,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Bookstack-%230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Bookstack-%25230288D1.svg?style%3Dfor-the-badge%26logo%3Dbookstack%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Bookstack-%25230288D1.svg?style=for-the-badge&logo=bookstack&logoColor=white)",
   },
   {
     name: "Wikipedia",
@@ -965,7 +965,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Wikipedia-%23000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Wikipedia-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dwikipedia%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Wikipedia-%2523000000.svg?style=for-the-badge&logo=wikipedia&logoColor=white)",
   },
   {
     name: "Wiki.js",
@@ -973,7 +973,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/wiki.js-%231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/wiki.js-%25231976D2.svg?style%3Dfor-the-badge%26logo%3Dwikidotjs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/wiki.js-%25231976D2.svg?style=for-the-badge&logo=wikidotjs&logoColor=white)",
   },
   {
     name: "Codecademy",
@@ -981,7 +981,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A",
     markdown:
-      "[](https://img.shields.io/badge/Codecademy-FFF0E5?style%3Dfor-the-badge%26logo%3Dcodecademy%26logoColor%3D1F243A)",
+      "[](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)",
   },
   {
     name: "Codingninjas",
@@ -989,7 +989,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/coding%20ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/coding%2520ninjas-DD6620?style%3Dfor-the-badge%26logo%3Dcodingninjas%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/coding%2520ninjas-DD6620?style=for-the-badge&logo=codingninjas&logoColor=white)",
   },
   {
     name: "Codewars",
@@ -997,7 +997,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Codewars-B1361E?style%3Dfor-the-badge%26logo%3Dcodewars%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=black)",
   },
   {
     name: "Coursera",
@@ -1005,7 +1005,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Coursera-%230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Coursera-%25230056D2.svg?style%3Dfor-the-badge%26logo%3DCoursera%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Coursera-%25230056D2.svg?style=for-the-badge&logo=Coursera&logoColor=white)",
   },
   {
     name: "Datacamp",
@@ -1013,7 +1013,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860",
     markdown:
-      "[](https://img.shields.io/badge/Datacamp-05192D?style%3Dfor-the-badge%26logo%3Ddatacamp%26logoColor%3D03E860)",
+      "[](https://img.shields.io/badge/Datacamp-05192D?style=for-the-badge&logo=datacamp&logoColor=03E860)",
   },
   {
     name: "Duolingo",
@@ -1021,7 +1021,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Duolingo-%234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Duolingo-%25234DC730.svg?style%3Dfor-the-badge%26logo%3DDuolingo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Duolingo-%25234DC730.svg?style=for-the-badge&logo=Duolingo&logoColor=white)",
   },
   {
     name: "edX",
@@ -1029,7 +1029,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/edX-%252302262B.svg?style%3Dfor-the-badge%26logo%3DedX%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/edX-%252302262B.svg?style=for-the-badge&logo=edX&logoColor=white)",
   },
   {
     name: "Exercism",
@@ -1037,7 +1037,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Exercism-009CAB?style%3Dfor-the-badge%26logo%3Dexercism%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Exercism-009CAB?style=for-the-badge&logo=exercism&logoColor=white)",
   },
   {
     name: "FreeCodeCamp",
@@ -1045,7 +1045,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Freecodecamp-%23123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green",
     markdown:
-      "[](https://img.shields.io/badge/Freecodecamp-%2523123.svg?style%3Dfor-the-badge%26logo%3Dfreecodecamp%26logoColor%3Dgreen)",
+      "[](https://img.shields.io/badge/Freecodecamp-%2523123.svg?style=for-the-badge&logo=freecodecamp&logoColor=green)",
   },
   {
     name: "Future Learn",
@@ -1053,7 +1053,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/future%20learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/future%2520learn-DE00A5?style%3Dfor-the-badge%26logo%3Dfuturelearn%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/future%2520learn-DE00A5?style=for-the-badge&logo=futurelearn&logoColor=white)",
   },
   {
     name: "GeeksforGeeks",
@@ -1061,7 +1061,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c",
     markdown:
-      "[](https://img.shields.io/badge/GeeksforGeeks-gray?style%3Dfor-the-badge%26logo%3Dgeeksforgeeks%26logoColor%3D35914c)",
+      "[](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)",
   },
   {
     name: "Khan Academy",
@@ -1069,7 +1069,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/KhanAcademy-%252314BF96.svg?style%3Dfor-the-badge%26logo%3DKhanAcademy%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/KhanAcademy-%252314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)",
   },
   {
     name: "MDN Web Docs",
@@ -1077,7 +1077,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/MDN_Web_Docs-black?style%3Dfor-the-badge%26logo%3Dmdnwebdocs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white)",
   },
   {
     name: "Microsoft Learn",
@@ -1085,7 +1085,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Learn-258ffa?style%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Learn-258ffa?style=for-the-badge&logo=microsoft&logoColor=white)",
   },
   {
     name: "Pluralsight",
@@ -1093,7 +1093,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Pluralsight-EE3057?style%3Dfor-the-badge%26logo%3Dpluralsight%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Pluralsight-EE3057?style=for-the-badge&logo=pluralsight&logoColor=white)",
   },
   {
     name: "Scrimba",
@@ -1101,7 +1101,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/scrimba-2B283A?style%3Dfor-the-badge%26logo%3Dscrimba%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/scrimba-2B283A?style=for-the-badge&logo=scrimba&logoColor=white)",
   },
   {
     name: "Skill Share",
@@ -1109,7 +1109,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Skill%20share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84",
     markdown:
-      "[](https://img.shields.io/badge/Skill%2520share-002333?style%3Dfor-the-badge%26logo%3Dskillshare%26logoColor%3D00FF84)",
+      "[](https://img.shields.io/badge/Skill%2520share-002333?style=for-the-badge&logo=skillshare&logoColor=00FF84)",
   },
   {
     name: "Udacity",
@@ -1117,7 +1117,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6",
     markdown:
-      "[](https://img.shields.io/badge/Udacity-grey?style%3Dfor-the-badge%26logo%3Dudacity%26logoColor%3D15B8E6)",
+      "[](https://img.shields.io/badge/Udacity-grey?style=for-the-badge&logo=udacity&logoColor=15B8E6)",
   },
   {
     name: "Udemy",
@@ -1125,7 +1125,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Udemy-A435F0?style%3Dfor-the-badge%26logo%3DUdemy%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white)",
   },
   {
     name: "Amazon Pay",
@@ -1133,7 +1133,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/AmazonPay-ff9900.svg?style%3Dfor-the-badge%26logo%3DAmazon-Pay%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/AmazonPay-ff9900.svg?style=for-the-badge&logo=Amazon-Pay&logoColor=white)",
   },
   {
     name: "Apple Pay",
@@ -1141,7 +1141,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ApplePay-000000.svg?style%3Dfor-the-badge%26logo%3DApple-Pay%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ApplePay-000000.svg?style=for-the-badge&logo=Apple-Pay&logoColor=white)",
   },
   {
     name: "Buy Me a Coffee",
@@ -1149,7 +1149,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style%3Dfor-the-badge%26logo%3Dbuy-me-a-coffee%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Buy%2520Me%2520a%2520Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)",
   },
   {
     name: "Github Sponsors",
@@ -1157,7 +1157,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA",
     markdown:
-      "[](https://img.shields.io/badge/sponsor-30363D?style%3Dfor-the-badge%26logo%3DGitHub-Sponsors%26logoColor%3D%23EA4AAA)",
+      "[](https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=%23EA4AAA)",
   },
   {
     name: "Google Pay",
@@ -1165,7 +1165,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GooglePay-%233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/GooglePay-%25233780F1.svg?style%3Dfor-the-badge%26logo%3DGoogle-Pay%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/GooglePay-%25233780F1.svg?style=for-the-badge&logo=Google-Pay&logoColor=white)",
   },
   {
     name: "Ko-Fi",
@@ -1173,7 +1173,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Ko--fi-F16061?style%3Dfor-the-badge%26logo%3Dko-fi%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)",
   },
   {
     name: "LiberaPay",
@@ -1181,7 +1181,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Liberapay-F6C915?style%3Dfor-the-badge%26logo%3Dliberapay%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Liberapay-F6C915?style=for-the-badge&logo=liberapay&logoColor=black)",
   },
   {
     name: "Patreon",
@@ -1189,7 +1189,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Patreon-F96854?style%3Dfor-the-badge%26logo%3Dpatreon%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)",
   },
   {
     name: "PayPal",
@@ -1197,7 +1197,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/PayPal-00457C?style%3Dfor-the-badge%26logo%3Dpaypal%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)",
   },
   {
     name: "Paytm",
@@ -1205,7 +1205,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3",
     markdown:
-      "[](https://img.shields.io/badge/Paytm-1C2C94?style%3Dfor-the-badge%26logo%3Dpaytm%26logoColor%3D05BAF3)",
+      "[](https://img.shields.io/badge/Paytm-1C2C94?style=for-the-badge&logo=paytm&logoColor=05BAF3)",
   },
   {
     name: "Phonepe",
@@ -1213,7 +1213,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Phonepe-54039A?style%3Dfor-the-badge%26logo%3Dphonepe%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Phonepe-54039A?style=for-the-badge&logo=phonepe&logoColor=white)",
   },
   {
     name: "Samsung Pay",
@@ -1221,7 +1221,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SamsungPay-1428A0.svg?style%3Dfor-the-badge%26logo%3DSamsung-Pay%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SamsungPay-1428A0.svg?style=for-the-badge&logo=Samsung-Pay&logoColor=white)",
   },
   {
     name: "Wise",
@@ -1229,7 +1229,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF",
     markdown:
-      "[](https://img.shields.io/badge/wise-394e79?style%3Dfor-the-badge%26logo%3Dwise%26logoColor%3D00B9FF)",
+      "[](https://img.shields.io/badge/wise-394e79?style=for-the-badge&logo=wise&logoColor=00B9FF)",
   },
   {
     name: "JWT/JSON Web Token",
@@ -1237,7 +1237,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens",
     markdown:
-      "[](https://img.shields.io/badge/JWT-black?style%3Dfor-the-badge%26logo%3DJSON%2520web%2520tokens)",
+      "[](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%2520web%2520tokens)",
   },
   {
     name: "Laravel",
@@ -1245,7 +1245,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/laravel-%2523FF2D20.svg?style%3Dfor-the-badge%26logo%3Dlaravel%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/laravel-%2523FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)",
   },
   {
     name: "Less",
@@ -1253,7 +1253,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/less-2B4C80?style%3Dfor-the-badge%26logo%3Dless%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/less-2B4C80?style=for-the-badge&logo=less&logoColor=white)",
   },
   {
     name: "MUI",
@@ -1261,7 +1261,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/MUI-%25230081CB.svg?style%3Dfor-the-badge%26logo%3Dmui%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/MUI-%25230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)",
   },
   {
     name: "Meteor JS",
@@ -1269,7 +1269,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/meteorjs-%23d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/meteorjs-%2523d74c4c.svg?style%3Dfor-the-badge%26logo%3Dmeteor%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/meteorjs-%2523d74c4c.svg?style=for-the-badge&logo=meteor&logoColor=white)",
   },
   {
     name: "MaxCompute",
@@ -1277,7 +1277,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/MaxCompute-%23FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/MaxCompute-%2523FF6701?style%3Dfor-the-badge%26logo%3Dalibabacloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/MaxCompute-%2523FF6701?style=for-the-badge&logo=alibabacloud&logoColor=white)",
   },
   {
     name: "NPM",
@@ -1285,7 +1285,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/NPM-%2523CB3837.svg?style%3Dfor-the-badge%26logo%3Dnpm%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/NPM-%2523CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)",
   },
   {
     name: "NestJS",
@@ -1293,7 +1293,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/nestjs-%2523E0234E.svg?style%3Dfor-the-badge%26logo%3Dnestjs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/nestjs-%2523E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)",
   },
   {
     name: "Next JS",
@@ -1301,7 +1301,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Next-black?style%3Dfor-the-badge%26logo%3Dnext.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)",
   },
   {
     name: "Node.js",
@@ -1309,7 +1309,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/node.js-6DA55F?style%3Dfor-the-badge%26logo%3Dnode.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)",
   },
   {
     name: "Nodemon",
@@ -1317,7 +1317,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD",
     markdown:
-      "[](https://img.shields.io/badge/NODEMON-%2523323330.svg?style%3Dfor-the-badge%26logo%3Dnodemon%26logoColor%3D%25BBDEAD)",
+      "[](https://img.shields.io/badge/NODEMON-%2523323330.svg?style=for-the-badge&logo=nodemon&logoColor=%25BBDEAD)",
   },
   {
     name: "Node-RED",
@@ -1325,7 +1325,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Node--RED-%238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Node--RED-%25238F0000.svg?style%3Dfor-the-badge%26logo%3Dnode-red%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Node--RED-%25238F0000.svg?style=for-the-badge&logo=node-red&logoColor=white)",
   },
   {
     name: "Nuxt JS",
@@ -1333,7 +1333,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=#00DC82",
     markdown:
-      "[](https://img.shields.io/badge/Nuxt-002E3B?style%3Dfor-the-badge%26logo%3Dnuxtdotjs%26logoColor%3D%2300DC82)",
+      "[](https://img.shields.io/badge/Nuxt-002E3B?style=for-the-badge&logo=nuxtdotjs&logoColor=%2300DC82)",
   },
   {
     name: "Nx",
@@ -1341,7 +1341,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/nx-143055?style%3Dfor-the-badge%26logo%3Dnx%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/nx-143055?style=for-the-badge&logo=nx&logoColor=white)",
   },
   {
     name: "OpenGL",
@@ -1349,7 +1349,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OpenGL-%23FFFFFF.svg?style=for-the-badge&logo=opengl",
     markdown:
-      "[](https://img.shields.io/badge/OpenGL-%2523FFFFFF.svg?style%3Dfor-the-badge%26logo%3Dopengl)",
+      "[](https://img.shields.io/badge/OpenGL-%2523FFFFFF.svg?style=for-the-badge&logo=opengl)",
   },
   {
     name: "P5js",
@@ -1357,7 +1357,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF",
     markdown:
-      "[](https://img.shields.io/badge/p5.js-ED225D?style%3Dfor-the-badge%26logo%3Dp5.js%26logoColor%3DFFFFFF)",
+      "[](https://img.shields.io/badge/p5.js-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)",
   },
   {
     name: "PNPM",
@@ -1365,7 +1365,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/pnpm-%234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220",
     markdown:
-      "[](https://img.shields.io/badge/pnpm-%25234a4a4a.svg?style%3Dfor-the-badge%26logo%3Dpnpm%26logoColor%3Df69220)",
+      "[](https://img.shields.io/badge/pnpm-%25234a4a4a.svg?style=for-the-badge&logo=pnpm&logoColor=f69220)",
   },
   {
     name: "Prefect",
@@ -1373,7 +1373,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Prefect-%23ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Prefect-%2523ffffff.svg?style%3Dfor-the-badge%26logo%3Dprefect%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Prefect-%2523ffffff.svg?style=for-the-badge&logo=prefect&logoColor=white)",
   },
   {
     name: "Pug",
@@ -1381,7 +1381,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454",
     markdown:
-      "[](https://img.shields.io/badge/Pug-FFF?style%3Dfor-the-badge%26logo%3Dpug%26logoColor%3DA86454)",
+      "[](https://img.shields.io/badge/Pug-FFF?style=for-the-badge&logo=pug&logoColor=A86454)",
   },
   {
     name: "Qt",
@@ -1389,7 +1389,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Qt-%23217346.svg?style=for-the-badge&logo=Qt&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Qt-%2523217346.svg?style%3Dfor-the-badge%26logo%3DQt%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Qt-%2523217346.svg?style=for-the-badge&logo=Qt&logoColor=white)",
   },
   {
     name: "Quasar",
@@ -1397,7 +1397,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Quasar-16B7FB?style%3Dfor-the-badge%26logo%3Dquasar%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Quasar-16B7FB?style=for-the-badge&logo=quasar&logoColor=black)",
   },
   {
     name: "ROS",
@@ -1405,7 +1405,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ros-%230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ros-%25230A0FF9.svg?style%3Dfor-the-badge%26logo%3Dros%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ros-%25230A0FF9.svg?style=for-the-badge&logo=ros&logoColor=white)",
   },
   {
     name: "RabbitMQ",
@@ -1413,7 +1413,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rabbitmq-FF6600?style%3Dfor-the-badge%26logo%3Drabbitmq%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rabbitmq-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)",
   },
   {
     name: "Rails",
@@ -1421,7 +1421,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rails-%23CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rails-%2523CC0000.svg?style%3Dfor-the-badge%26logo%3Druby-on-rails%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rails-%2523CC0000.svg?style=for-the-badge&logo=ruby-on-rails&logoColor=white)",
   },
   {
     name: "React",
@@ -1429,7 +1429,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB",
     markdown:
-      "[](https://img.shields.io/badge/react-%252320232a.svg?style%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB)",
+      "[](https://img.shields.io/badge/react-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB)",
   },
   {
     name: "React Native",
@@ -1437,7 +1437,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB",
     markdown:
-      "[](https://img.shields.io/badge/react_native-%252320232a.svg?style%3Dfor-the-badge%26logo%3Dreact%26logoColor%3D%252361DAFB)",
+      "[](https://img.shields.io/badge/react_native-%252320232a.svg?style=for-the-badge&logo=react&logoColor=%252361DAFB)",
   },
   {
     name: "React Query",
@@ -1445,7 +1445,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-React%2520Query-FF4154?style%3Dfor-the-badge%26logo%3Dreact%2520query%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-React%2520Query-FF4154?style=for-the-badge&logo=react%2520query&logoColor=white)",
   },
   {
     name: "React Router",
@@ -1453,7 +1453,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/React_Router-CA4245?style%3Dfor-the-badge%26logo%3Dreact-router%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)",
   },
   {
     name: "React Hook Form",
@@ -1461,7 +1461,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/React%2520Hook%2520Form-%2523EC5990.svg?style%3Dfor-the-badge%26logo%3Dreacthookform%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/React%2520Hook%2520Form-%2523EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)",
   },
   {
     name: "Redux",
@@ -1469,7 +1469,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/redux-%2523593d88.svg?style%3Dfor-the-badge%26logo%3Dredux%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/redux-%2523593d88.svg?style=for-the-badge&logo=redux&logoColor=white)",
   },
   {
     name: "Remix",
@@ -1477,7 +1477,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/remix-%23000.svg?style=for-the-badge&logo=remix&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/remix-%2523000.svg?style%3Dfor-the-badge%26logo%3Dremix%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/remix-%2523000.svg?style=for-the-badge&logo=remix&logoColor=white)",
   },
   {
     name: "RollupJS",
@@ -1485,7 +1485,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/RollupJS-ef3335?style%3Dfor-the-badge%26logo%3Drollup.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/RollupJS-ef3335?style=for-the-badge&logo=rollup.js&logoColor=white)",
   },
   {
     name: "RxDB",
@@ -1493,7 +1493,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rxdb-%238D1F89.svg?style=for-the-badge&logo=rxdb&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rxdb-%25238D1F89.svg?style%3Dfor-the-badge%26logo%3Drxdb%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rxdb-%25238D1F89.svg?style=for-the-badge&logo=rxdb&logoColor=white)",
   },
   {
     name: "RxJS",
@@ -1501,7 +1501,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rxjs-%2523B7178C.svg?style%3Dfor-the-badge%26logo%3Dreactivex%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rxjs-%2523B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white)",
   },
   {
     name: "SASS",
@@ -1509,7 +1509,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SASS-hotpink.svg?style%3Dfor-the-badge%26logo%3DSASS%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)",
   },
   {
     name: "Semantic UI React",
@@ -1517,7 +1517,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Semantic%2520UI%2520React-%252335BDB2.svg?style%3Dfor-the-badge%26logo%3DSemanticUIReact%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Semantic%2520UI%2520React-%252335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white)",
   },
   {
     name: "Socket.io",
@@ -1525,7 +1525,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101",
     markdown:
-      "[](https://img.shields.io/badge/Socket.io-black?style%3Dfor-the-badge%26logo%3Dsocket.io%26badgeColor%3D010101)",
+      "[](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)",
   },
   {
     name: "SolidJS",
@@ -1533,7 +1533,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb",
     markdown:
-      "[](https://img.shields.io/badge/SolidJS-2c4f7c?style%3Dfor-the-badge%26logo%3Dsolid%26logoColor%3Dc8c9cb)",
+      "[](https://img.shields.io/badge/SolidJS-2c4f7c?style=for-the-badge&logo=solid&logoColor=c8c9cb)",
   },
   {
     name: "Spring",
@@ -1541,7 +1541,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/spring-%25236DB33F.svg?style%3Dfor-the-badge%26logo%3Dspring%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/spring-%25236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)",
   },
   {
     name: "Strapi",
@@ -1549,7 +1549,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/strapi-%232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/strapi-%25232E7EEA.svg?style%3Dfor-the-badge%26logo%3Dstrapi%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/strapi-%25232E7EEA.svg?style=for-the-badge&logo=strapi&logoColor=white)",
   },
   {
     name: "Styled Components",
@@ -1557,7 +1557,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/styled--components-DB7093?style%3Dfor-the-badge%26logo%3Dstyled-components%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)",
   },
   {
     name: "Stylus",
@@ -1565,7 +1565,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/stylus-%23ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/stylus-%2523ff6347.svg?style%3Dfor-the-badge%26logo%3Dstylus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/stylus-%2523ff6347.svg?style=for-the-badge&logo=stylus&logoColor=white)",
   },
   {
     name: "Svelte",
@@ -1573,7 +1573,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/svelte-%2523f1413d.svg?style%3Dfor-the-badge%26logo%3Dsvelte%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/svelte-%2523f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)",
   },
   {
     name: "Symfony",
@@ -1581,7 +1581,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/symfony-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dsymfony%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/symfony-%2523000000.svg?style=for-the-badge&logo=symfony&logoColor=white)",
   },
   {
     name: "TailwindCSS",
@@ -1589,7 +1589,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style%3Dfor-the-badge%26logo%3Dtailwind-css%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/tailwindcss-%252338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)",
   },
   {
     name: "Tauri",
@@ -1597,7 +1597,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF",
     markdown:
-      "[](https://img.shields.io/badge/tauri-%252324C8DB.svg?style%3Dfor-the-badge%26logo%3Dtauri%26logoColor%3D%2523FFFFFF)",
+      "[](https://img.shields.io/badge/tauri-%252324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%2523FFFFFF)",
   },
   {
     name: "Three.js",
@@ -1605,7 +1605,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/threejs-black?style%3Dfor-the-badge%26logo%3Dthree.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white)",
   },
   {
     name: "Thymeleaf",
@@ -1613,7 +1613,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Thymeleaf-%23005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Thymeleaf-%2523005C0F.svg?style%3Dfor-the-badge%26logo%3DThymeleaf%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Thymeleaf-%2523005C0F.svg?style=for-the-badge&logo=Thymeleaf&logoColor=white)",
   },
   {
     name: "TypeGraphQL",
@@ -1621,7 +1621,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-TypeGraphQL-%23C04392?style=for-the-badge",
     markdown:
-      "[](https://img.shields.io/badge/-TypeGraphQL-%2523C04392?style%3Dfor-the-badge)",
+      "[](https://img.shields.io/badge/-TypeGraphQL-%2523C04392?style=for-the-badge)",
   },
   {
     name: "UnoCSS",
@@ -1629,7 +1629,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/unocss-333333.svg?style%3Dfor-the-badge%26logo%3Dunocss%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/unocss-333333.svg?style=for-the-badge&logo=unocss&logoColor=white)",
   },
   {
     name: "Vite",
@@ -1637,7 +1637,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/vite-%2523646CFF.svg?style%3Dfor-the-badge%26logo%3Dvite%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/vite-%2523646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)",
   },
   {
     name: "Vue.js",
@@ -1645,7 +1645,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D",
     markdown:
-      "[](https://img.shields.io/badge/vue.js-%252335495e.svg?style%3Dfor-the-badge%26logo%3Dvuedotjs%26logoColor%3D%25234FC08D)",
+      "[](https://img.shields.io/badge/vue.js-%252335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%25234FC08D)",
   },
   {
     name: "Vuetify",
@@ -1653,7 +1653,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF",
     markdown:
-      "[](https://img.shields.io/badge/Vuetify-1867C0?style%3Dfor-the-badge%26logo%3Dvuetify%26logoColor%3DAEDDFF)",
+      "[](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)",
   },
   {
     name: "WebGL",
@@ -1661,7 +1661,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge",
     markdown:
-      "[](https://img.shields.io/badge/WebGL-990000?logo%3Dwebgl%26logoColor%3Dwhite%26style%3Dfor-the-badge)",
+      "[](https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white&style=for-the-badge)",
   },
   {
     name: "Webpack",
@@ -1669,7 +1669,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/webpack-%238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/webpack-%25238DD6F9.svg?style%3Dfor-the-badge%26logo%3Dwebpack%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/webpack-%25238DD6F9.svg?style=for-the-badge&logo=webpack&logoColor=black)",
   },
   {
     name: "Web3.js",
@@ -1677,7 +1677,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/web3.js-F16822?style%3Dfor-the-badge%26logo%3Dweb3.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/web3.js-F16822?style=for-the-badge&logo=web3.js&logoColor=white)",
   },
   {
     name: "WindiCSS",
@@ -1685,7 +1685,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/windicss-48B0F1.svg?style%3Dfor-the-badge%26logo%3Dwindi-css%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/windicss-48B0F1.svg?style=for-the-badge&logo=windi-css&logoColor=white)",
   },
   {
     name: "WordPress",
@@ -1693,7 +1693,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/WordPress-%2523117AC9.svg?style%3Dfor-the-badge%26logo%3DWordPress%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/WordPress-%2523117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)",
   },
   {
     name: "Xamarin",
@@ -1701,7 +1701,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Xamarin-3199DC?style%3Dfor-the-badge%26logo%3Dxamarin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Xamarin-3199DC?style=for-the-badge&logo=xamarin&logoColor=white)",
   },
   {
     name: "Yarn",
@@ -1709,7 +1709,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/yarn-%25232C8EBB.svg?style%3Dfor-the-badge%26logo%3Dyarn%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/yarn-%25232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)",
   },
   {
     name: ".NET",
@@ -1717,7 +1717,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/.NET-5C2D91?style%3Dfor-the-badge%26logo%3D.net%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)",
   },
   {
     name: "AdonisJS",
@@ -1725,7 +1725,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/adonisjs-%23220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/adonisjs-%2523220052.svg?style%3Dfor-the-badge%26logo%3Dadonisjs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/adonisjs-%2523220052.svg?style=for-the-badge&logo=adonisjs&logoColor=white)",
   },
   {
     name: "Anaconda",
@@ -1733,7 +1733,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Anaconda-%252344A833.svg?style%3Dfor-the-badge%26logo%3Danaconda%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Anaconda-%252344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white)",
   },
   {
     name: "Angular",
@@ -1741,7 +1741,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/angular-%2523DD0031.svg?style%3Dfor-the-badge%26logo%3Dangular%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/angular-%2523DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)",
   },
   {
     name: "Angular.js",
@@ -1749,7 +1749,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/angular.js-%2523E23237.svg?style%3Dfor-the-badge%26logo%3Dangularjs%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/angular.js-%2523E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white)",
   },
   {
     name: "Ant Design",
@@ -1757,7 +1757,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-AntDesign-%25230170FE?style%3Dfor-the-badge%26logo%3Dant-design%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-AntDesign-%25230170FE?style=for-the-badge&logo=ant-design&logoColor=white)",
   },
   {
     name: "Ant Design",
@@ -1765,7 +1765,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-AntDesign-%230170FE?style=for-the-badge&logo=ant-design&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-AntDesign-%25230170FE?style%3Dfor-the-badge%26logo%3Dant-design%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-AntDesign-%25230170FE?style=for-the-badge&logo=ant-design&logoColor=white)",
   },
   {
     name: "Apache Spark",
@@ -1773,7 +1773,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Spark-FDEE21?style%3Dfor-the-badge%26logo%3Dapachespark%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Apache%2520Spark-FDEE21?style=for-the-badge&logo=apachespark&logoColor=black)",
   },
   {
     name: "Apache Kafka",
@@ -1781,7 +1781,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Kafka-000?style=for-the-badge&logo=apachekafka",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Kafka-000?style%3Dfor-the-badge%26logo%3Dapachekafka)",
+      "[](https://img.shields.io/badge/Apache%2520Kafka-000?style=for-the-badge&logo=apachekafka)",
   },
   {
     name: "Apache Hadoop",
@@ -1789,7 +1789,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Hadoop-66CCFF?style%3Dfor-the-badge%26logo%3Dapachehadoop%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Apache%2520Hadoop-66CCFF?style=for-the-badge&logo=apachehadoop&logoColor=black)",
   },
   {
     name: "Apache Hive",
@@ -1797,7 +1797,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Hive-FDEE21?style%3Dfor-the-badge%26logo%3Dapachehive%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Apache%2520Hive-FDEE21?style=for-the-badge&logo=apachehive&logoColor=black)",
   },
   {
     name: "Apollo GraphQL",
@@ -1805,7 +1805,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql",
     markdown:
-      "[](https://img.shields.io/badge/-ApolloGraphQL-311C87?style%3Dfor-the-badge%26logo%3Dapollo-graphql)",
+      "[](https://img.shields.io/badge/-ApolloGraphQL-311C87?style=for-the-badge&logo=apollo-graphql)",
   },
   {
     name: "Aurelia",
@@ -1813,7 +1813,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/aurelia-%23ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff",
     markdown:
-      "[](https://img.shields.io/badge/aurelia-%2523ED2B88.svg?style%3Dfor-the-badge%26logo%3Daurelia%26logoColor%3Dfff)",
+      "[](https://img.shields.io/badge/aurelia-%2523ED2B88.svg?style=for-the-badge&logo=aurelia&logoColor=fff)",
   },
   {
     name: "Blazor",
@@ -1821,7 +1821,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/blazor-%235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/blazor-%25235C2D91.svg?style%3Dfor-the-badge%26logo%3Dblazor%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/blazor-%25235C2D91.svg?style=for-the-badge&logo=blazor&logoColor=white)",
   },
   {
     name: "Bootstrap",
@@ -1829,7 +1829,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/bootstrap-%25238511FA.svg?style%3Dfor-the-badge%26logo%3Dbootstrap%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/bootstrap-%25238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)",
   },
   {
     name: "Buefy",
@@ -1837,7 +1837,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E",
     markdown:
-      "[](https://img.shields.io/badge/Buefy-7957D5?style%3Dfor-the-badge%26logo%3Dbuefy%26logoColor%3D48289E)",
+      "[](https://img.shields.io/badge/Buefy-7957D5?style=for-the-badge&logo=buefy&logoColor=48289E)",
   },
   {
     name: "Bulma",
@@ -1845,7 +1845,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/bulma-00D0B1?style%3Dfor-the-badge%26logo%3Dbulma%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/bulma-00D0B1?style=for-the-badge&logo=bulma&logoColor=white)",
   },
   {
     name: "Bun",
@@ -1853,7 +1853,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Bun-%23000000.svg?style=for-the-badge&logo=bun&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Bun-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dbun%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Bun-%2523000000.svg?style=for-the-badge&logo=bun&logoColor=white)",
   },
   {
     name: "Chakra UI",
@@ -1861,7 +1861,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/chakra-%234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/chakra-%25234ED1C5.svg?style%3Dfor-the-badge%26logo%3Dchakraui%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/chakra-%25234ED1C5.svg?style=for-the-badge&logo=chakraui&logoColor=white)",
   },
   {
     name: "Chart.js",
@@ -1869,7 +1869,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/chart.js-F5788D.svg?style%3Dfor-the-badge%26logo%3Dchart.js%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/chart.js-F5788D.svg?style=for-the-badge&logo=chart.js&logoColor=white)",
   },
   {
     name: "Code Igniter",
@@ -1877,7 +1877,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CodeIgniter-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/CodeIgniter-%2523EF4223.svg?style%3Dfor-the-badge%26logo%3DcodeIgniter%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/CodeIgniter-%2523EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white)",
   },
   {
     name: "DaisyUI",
@@ -1885,7 +1885,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/daisyui-5A0EF8?style%3Dfor-the-badge%26logo%3Ddaisyui%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/daisyui-5A0EF8?style=for-the-badge&logo=daisyui&logoColor=white)",
   },
   {
     name: "Deno JS",
@@ -1893,7 +1893,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/deno%20js-000000?style=for-the-badge&logo=deno&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/deno%2520js-000000?style%3Dfor-the-badge%26logo%3Ddeno%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/deno%2520js-000000?style=for-the-badge&logo=deno&logoColor=white)",
   },
   {
     name: "Directus",
@@ -1901,7 +1901,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/directus-%2364f.svg?style=for-the-badge&logo=directus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/directus-%252364f.svg?style%3Dfor-the-badge%26logo%3Ddirectus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/directus-%252364f.svg?style=for-the-badge&logo=directus&logoColor=white)",
   },
   {
     name: "Django",
@@ -1909,7 +1909,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/django-%2523092E20.svg?style%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/django-%2523092E20.svg?style=for-the-badge&logo=django&logoColor=white)",
   },
   {
     name: "DjangoREST",
@@ -1917,7 +1917,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray",
     markdown:
-      "[](https://img.shields.io/badge/DJANGO-REST-ff1709?style%3Dfor-the-badge%26logo%3Ddjango%26logoColor%3Dwhite%26color%3Dff1709%26labelColor%3Dgray)",
+      "[](https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray)",
   },
   {
     name: "Drupal",
@@ -1925,7 +1925,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/drupal-%230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/drupal-%25230678BE.svg?style%3Dfor-the-badge%26logo%3Ddrupal%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/drupal-%25230678BE.svg?style=for-the-badge&logo=drupal&logoColor=white)",
   },
   {
     name: "Electron.js",
@@ -1933,7 +1933,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Electron-191970?style%3Dfor-the-badge%26logo%3DElectron%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)",
   },
   {
     name: "Ember",
@@ -1941,7 +1941,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=#D04A37",
     markdown:
-      "[](https://img.shields.io/badge/ember-1C1E24?style%3Dfor-the-badge%26logo%3Dember.js%26logoColor%3D%23D04A37)",
+      "[](https://img.shields.io/badge/ember-1C1E24?style=for-the-badge&logo=ember.js&logoColor=%23D04A37)",
   },
   {
     name: "Expo",
@@ -1949,7 +1949,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37",
     markdown:
-      "[](https://img.shields.io/badge/expo-1C1E24?style%3Dfor-the-badge%26logo%3Dexpo%26logoColor%3D%23D04A37)",
+      "[](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=%23D04A37)",
   },
   {
     name: "Express.js",
@@ -1957,7 +1957,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB",
     markdown:
-      "[](https://img.shields.io/badge/express.js-%2523404d59.svg?style%3Dfor-the-badge%26logo%3Dexpress%26logoColor%3D%252361DAFB)",
+      "[](https://img.shields.io/badge/express.js-%2523404d59.svg?style=for-the-badge&logo=express&logoColor=%252361DAFB)",
   },
   {
     name: "FastAPI",
@@ -1965,7 +1965,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi",
     markdown:
-      "[](https://img.shields.io/badge/FastAPI-005571?style%3Dfor-the-badge%26logo%3Dfastapi)",
+      "[](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)",
   },
   {
     name: "Fastify",
@@ -1973,7 +1973,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/fastify-%23000000.svg?style=for-the-badge&logo=fastify&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/fastify-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dfastify%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/fastify-%2523000000.svg?style=for-the-badge&logo=fastify&logoColor=white)",
   },
   {
     name: "Flask",
@@ -1981,7 +1981,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/flask-%2523000.svg?style%3Dfor-the-badge%26logo%3Dflask%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/flask-%2523000.svg?style=for-the-badge&logo=flask&logoColor=white)",
   },
   {
     name: "Flutter",
@@ -1989,7 +1989,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Flutter-%252302569B.svg?style%3Dfor-the-badge%26logo%3DFlutter%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Flutter-%252302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)",
   },
   {
     name: "Gatsby.js",
@@ -1997,7 +1997,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gatsby-%23663399.svg?style=for-the-badge&logo=gatsby&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gatsby-%2523663399.svg?style%3Dfor-the-badge%26logo%3Dgatsby%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gatsby-%2523663399.svg?style=for-the-badge&logo=gatsby&logoColor=white)",
   },
   {
     name: "Green Sock",
@@ -2005,7 +2005,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/green%20sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/green%2520sock-88CE02?style%3Dfor-the-badge%26logo%3Dgreensock%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/green%2520sock-88CE02?style=for-the-badge&logo=greensock&logoColor=white)",
   },
   {
     name: "Gulp",
@@ -2013,7 +2013,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GULP-%23CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/GULP-%2523CF4647.svg?style%3Dfor-the-badge%26logo%3Dgulp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/GULP-%2523CF4647.svg?style=for-the-badge&logo=gulp&logoColor=white)",
   },
   {
     name: "Insomnia",
@@ -2021,7 +2021,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE",
     markdown:
-      "[](https://img.shields.io/badge/Insomnia-black?style%3Dfor-the-badge%26logo%3Dinsomnia%26logoColor%3D5849BE)",
+      "[](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)",
   },
   {
     name: "Hugo",
@@ -2029,7 +2029,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo",
     markdown:
-      "[](https://img.shields.io/badge/Hugo-black.svg?style%3Dfor-the-badge%26logo%3DHugo)",
+      "[](https://img.shields.io/badge/Hugo-black.svg?style=for-the-badge&logo=Hugo)",
   },
   {
     name: "Ionic",
@@ -2037,7 +2037,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Ionic-%233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Ionic-%25233880FF.svg?style%3Dfor-the-badge%26logo%3DIonic%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Ionic-%25233880FF.svg?style=for-the-badge&logo=Ionic&logoColor=white)",
   },
   {
     name: "Jasmine",
@@ -2045,7 +2045,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jasmine-%238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/jasmine-%25238A4182.svg?style%3Dfor-the-badge%26logo%3Djasmine%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/jasmine-%25238A4182.svg?style=for-the-badge&logo=jasmine&logoColor=white)",
   },
   {
     name: "Jinja",
@@ -2053,7 +2053,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/jinja-white.svg?style%3Dfor-the-badge%26logo%3Djinja%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/jinja-white.svg?style=for-the-badge&logo=jinja&logoColor=black)",
   },
   {
     name: "Joomla",
@@ -2061,7 +2061,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/joomla-%235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/joomla-%25235091CD.svg?style%3Dfor-the-badge%26logo%3Djoomla%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/joomla-%25235091CD.svg?style=for-the-badge&logo=joomla&logoColor=white)",
   },
   {
     name: "jQuery",
@@ -2069,7 +2069,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/jquery-%25230769AD.svg?style%3Dfor-the-badge%26logo%3Djquery%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/jquery-%25230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white)",
   },
   {
     name: "Analogue",
@@ -2077,7 +2077,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Analogue-1A1A1A?style%3Dfor-the-badge%26logo%3DAnalogue%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Analogue-1A1A1A?style=for-the-badge&logo=Analogue&logoColor=white)",
   },
   {
     name: "Battle.net",
@@ -2085,7 +2085,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/battle.net-%2300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/battle.net-%252300AEFF.svg?style%3Dfor-the-badge%26logo%3Dbattle.net%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/battle.net-%252300AEFF.svg?style=for-the-badge&logo=battle.net&logoColor=white)",
   },
   {
     name: "EA",
@@ -2093,7 +2093,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ea-%23000000.svg?style=for-the-badge&logo=ea&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ea-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dea%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ea-%2523000000.svg?style=for-the-badge&logo=ea&logoColor=white)",
   },
   {
     name: "Epic Games",
@@ -2101,7 +2101,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/epicgames-%23313131.svg?style=for-the-badge&logo=epicgames&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/epicgames-%2523313131.svg?style%3Dfor-the-badge%26logo%3Depicgames%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/epicgames-%2523313131.svg?style=for-the-badge&logo=epicgames&logoColor=white)",
   },
   {
     name: "Godot Engine",
@@ -2109,7 +2109,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GODOT-%23FFFFFF.svg?style=for-the-badge&logo=godot-engine",
     markdown:
-      "[](https://img.shields.io/badge/GODOT-%2523FFFFFF.svg?style%3Dfor-the-badge%26logo%3Dgodot-engine)",
+      "[](https://img.shields.io/badge/GODOT-%2523FFFFFF.svg?style=for-the-badge&logo=godot-engine)",
   },
   {
     name: "Humble Bundle",
@@ -2117,7 +2117,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/HumbleBundle-%23494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/HumbleBundle-%2523494F5C.svg?style%3Dfor-the-badge%26logo%3DHumbleBundle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/HumbleBundle-%2523494F5C.svg?style=for-the-badge&logo=HumbleBundle&logoColor=white)",
   },
   {
     name: "Itch.io",
@@ -2125,7 +2125,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Itch-%23FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Itch-%2523FF0B34.svg?style%3Dfor-the-badge%26logo%3DItch.io%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Itch-%2523FF0B34.svg?style=for-the-badge&logo=Itch.io&logoColor=white)",
   },
   {
     name: "nVIDIA",
@@ -2133,7 +2133,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/nVIDIA-%252376B900.svg?style%3Dfor-the-badge%26logo%3DnVIDIA%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/nVIDIA-%252376B900.svg?style=for-the-badge&logo=nVIDIA&logoColor=white)",
   },
   {
     name: "PlayStation Network",
@@ -2141,7 +2141,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/PSN-%230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/PSN-%25230070D1.svg?style%3Dfor-the-badge%26logo%3DPlaystation%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/PSN-%25230070D1.svg?style=for-the-badge&logo=Playstation&logoColor=white)",
   },
   {
     name: "Riot Games",
@@ -2149,7 +2149,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/riotgames-D32936.svg?style%3Dfor-the-badge%26logo%3Driotgames%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/riotgames-D32936.svg?style=for-the-badge&logo=riotgames&logoColor=white)",
   },
   {
     name: "Square Enix",
@@ -2157,7 +2157,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SquareEnix-%23ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SquareEnix-%2523ED1C24.svg?style%3Dfor-the-badge%26logo%3DSquareEnix%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SquareEnix-%2523ED1C24.svg?style=for-the-badge&logo=SquareEnix&logoColor=white)",
   },
   {
     name: "Steam",
@@ -2165,7 +2165,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/steam-%23000000.svg?style=for-the-badge&logo=steam&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/steam-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dsteam%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/steam-%2523000000.svg?style=for-the-badge&logo=steam&logoColor=white)",
   },
   {
     name: "Ubisoft",
@@ -2173,7 +2173,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Ubisoft-%23F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Ubisoft-%2523F5F5F5.svg?style%3Dfor-the-badge%26logo%3DUbisoft%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Ubisoft-%2523F5F5F5.svg?style=for-the-badge&logo=Ubisoft&logoColor=black)",
   },
   {
     name: "Unity",
@@ -2181,7 +2181,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/unity-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dunity%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/unity-%2523000000.svg?style=for-the-badge&logo=unity&logoColor=white)",
   },
   {
     name: "Unreal Engine",
@@ -2189,7 +2189,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/unrealengine-%2523313131.svg?style%3Dfor-the-badge%26logo%3Dunrealengine%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/unrealengine-%2523313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white)",
   },
   {
     name: "Xbox",
@@ -2197,7 +2197,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/xbox-%2523107C10.svg?style%3Dfor-the-badge%26logo%3Dxbox%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/xbox-%2523107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)",
   },
   {
     name: "3DS",
@@ -2205,7 +2205,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/3DS-D12228?style%3Dfor-the-badge%26logo%3Dnintendo-3ds%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/3DS-D12228?style=for-the-badge&logo=nintendo-3ds&logoColor=white)",
   },
   {
     name: "Gamecube",
@@ -2213,7 +2213,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gamecube-6A5FBB?style%3Dfor-the-badge%26logo%3Dnintendo-gamecube%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gamecube-6A5FBB?style=for-the-badge&logo=nintendo-gamecube&logoColor=white)",
   },
   {
     name: "Playstation",
@@ -2221,7 +2221,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation-003791?style%3Dfor-the-badge%26logo%3Dplaystation%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation-003791?style=for-the-badge&logo=playstation&logoColor=white)",
   },
   {
     name: "Playstation 2",
@@ -2229,7 +2229,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation%202-003791?style=for-the-badge&logo=playstation-2&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation%25202-003791?style%3Dfor-the-badge%26logo%3Dplaystation-2%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation%25202-003791?style=for-the-badge&logo=playstation-2&logoColor=white)",
   },
   {
     name: "Playstation 3",
@@ -2237,7 +2237,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation%203-003791?style=for-the-badge&logo=playstation-3&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation%25203-003791?style%3Dfor-the-badge%26logo%3Dplaystation-3%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation%25203-003791?style=for-the-badge&logo=playstation-3&logoColor=white)",
   },
   {
     name: "Playstation 4",
@@ -2245,7 +2245,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation%204-003791?style=for-the-badge&logo=playstation-4&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation%25204-003791?style%3Dfor-the-badge%26logo%3Dplaystation-4%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation%25204-003791?style=for-the-badge&logo=playstation-4&logoColor=white)",
   },
   {
     name: "Playstation 5",
@@ -2253,7 +2253,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation%205-003791?style=for-the-badge&logo=playstation-5&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation%25205-003791?style%3Dfor-the-badge%26logo%3Dplaystation-5%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation%25205-003791?style=for-the-badge&logo=playstation-5&logoColor=white)",
   },
   {
     name: "Playstation Vita",
@@ -2261,7 +2261,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Playstation%20Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Playstation%2520Vita-003791?style%3Dfor-the-badge%26logo%3Dplaystation-vita%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Playstation%2520Vita-003791?style=for-the-badge&logo=playstation-vita&logoColor=white)",
   },
   {
     name: "Switch",
@@ -2269,7 +2269,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Switch-E60012?style%3Dfor-the-badge%26logo%3Dnintendo-switch%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Switch-E60012?style=for-the-badge&logo=nintendo-switch&logoColor=white)",
   },
   {
     name: "Wii",
@@ -2277,7 +2277,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Wii-8B8B8B?style%3Dfor-the-badge%26logo%3Dwii%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Wii-8B8B8B?style=for-the-badge&logo=wii&logoColor=white)",
   },
   {
     name: "Wii U",
@@ -2285,7 +2285,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Wii%20U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Wii%2520U-8B8B8B?style%3Dfor-the-badge%26logo%3Dwiiu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Wii%2520U-8B8B8B?style=for-the-badge&logo=wiiu&logoColor=white)",
   },
   {
     name: "Xbox",
@@ -2293,7 +2293,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/xbox-%23107C10.svg?style=for-the-badge&logo=xbox&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/xbox-%2523107C10.svg?style%3Dfor-the-badge%26logo%3Dxbox%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/xbox-%2523107C10.svg?style=for-the-badge&logo=xbox&logoColor=white)",
   },
   {
     name: "Alibaba Cloud",
@@ -2301,7 +2301,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/AlibabaCloud-%23FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/AlibabaCloud-%2523FF6701.svg?style%3Dfor-the-badge%26logo%3Dalibabacloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/AlibabaCloud-%2523FF6701.svg?style=for-the-badge&logo=alibabacloud&logoColor=white)",
   },
   {
     name: "AWS",
@@ -2309,7 +2309,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/AWS-%2523FF9900.svg?style%3Dfor-the-badge%26logo%3Damazon-aws%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/AWS-%2523FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)",
   },
   {
     name: "Azure",
@@ -2317,7 +2317,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/azure-%25230072C6.svg?style%3Dfor-the-badge%26logo%3Dmicrosoftazure%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/azure-%25230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)",
   },
   {
     name: "Cloudflare",
@@ -2325,7 +2325,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Cloudflare-F38020?style%3Dfor-the-badge%26logo%3DCloudflare%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white)",
   },
   {
     name: "Codeberg",
@@ -2333,7 +2333,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Codeberg-2185D0?style%3Dfor-the-badge%26logo%3DCodeberg%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Codeberg-2185D0?style=for-the-badge&logo=Codeberg&logoColor=white)",
   },
   {
     name: "Datadog",
@@ -2341,7 +2341,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/datadog-%23632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/datadog-%2523632CA6.svg?style%3Dfor-the-badge%26logo%3Ddatadog%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/datadog-%2523632CA6.svg?style=for-the-badge&logo=datadog&logoColor=white)",
   },
   {
     name: "DigitalOcean",
@@ -2349,7 +2349,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/DigitalOcean-%230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/DigitalOcean-%25230167ff.svg?style%3Dfor-the-badge%26logo%3DdigitalOcean%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/DigitalOcean-%25230167ff.svg?style=for-the-badge&logo=digitalOcean&logoColor=white)",
   },
   {
     name: "Firebase",
@@ -2357,7 +2357,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase",
     markdown:
-      "[](https://img.shields.io/badge/firebase-%2523039BE5.svg?style%3Dfor-the-badge%26logo%3Dfirebase)",
+      "[](https://img.shields.io/badge/firebase-%2523039BE5.svg?style=for-the-badge&logo=firebase)",
   },
   {
     name: "Github Pages",
@@ -2365,7 +2365,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/github%20pages-121013?style=for-the-badge&logo=github&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/github%2520pages-121013?style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/github%2520pages-121013?style=for-the-badge&logo=github&logoColor=white)",
   },
   {
     name: "Glitch",
@@ -2373,7 +2373,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/glitch-%233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/glitch-%25233333FF.svg?style%3Dfor-the-badge%26logo%3Dglitch%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/glitch-%25233333FF.svg?style=for-the-badge&logo=glitch&logoColor=white)",
   },
   {
     name: "Google Cloud",
@@ -2381,7 +2381,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/GoogleCloud-%25234285F4.svg?style%3Dfor-the-badge%26logo%3Dgoogle-cloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/GoogleCloud-%25234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)",
   },
   {
     name: "Heroku",
@@ -2389,7 +2389,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/heroku-%2523430098.svg?style%3Dfor-the-badge%26logo%3Dheroku%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/heroku-%2523430098.svg?style=for-the-badge&logo=heroku&logoColor=white)",
   },
   {
     name: "Linode",
@@ -2397,7 +2397,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/linode-00A95C?style%3Dfor-the-badge%26logo%3Dlinode%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/linode-00A95C?style=for-the-badge&logo=linode&logoColor=white)",
   },
   {
     name: "Netlify",
@@ -2405,7 +2405,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7",
     markdown:
-      "[](https://img.shields.io/badge/netlify-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dnetlify%26logoColor%3D%2300C7B7)",
+      "[](https://img.shields.io/badge/netlify-%2523000000.svg?style=for-the-badge&logo=netlify&logoColor=%2300C7B7)",
   },
   {
     name: "Oracle",
@@ -2413,7 +2413,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Oracle-F80000?style%3Dfor-the-badge%26logo%3Doracle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)",
   },
   {
     name: "OpenStack",
@@ -2421,7 +2421,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Openstack-%23f01742.svg?style=for-the-badge&logo=openstack&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Openstack-%2523f01742.svg?style%3Dfor-the-badge%26logo%3Dopenstack%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Openstack-%2523f01742.svg?style=for-the-badge&logo=openstack&logoColor=white)",
   },
   {
     name: "OVH",
@@ -2429,7 +2429,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ovh-%23123F6D.svg?style=for-the-badge&logo=ovh&logoColor=#123F6D",
     markdown:
-      "[](https://img.shields.io/badge/ovh-%2523123F6D.svg?style%3Dfor-the-badge%26logo%3Dovh%26logoColor%3D%23123F6D)",
+      "[](https://img.shields.io/badge/ovh-%2523123F6D.svg?style=for-the-badge&logo=ovh&logoColor=%23123F6D)",
   },
   {
     name: "Render",
@@ -2437,7 +2437,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Render-%2546E3B7.svg?style%3Dfor-the-badge%26logo%3Drender%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Render-%2546E3B7.svg?style=for-the-badge&logo=render&logoColor=white)",
   },
   {
     name: "Scaleway",
@@ -2445,7 +2445,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SCALEWAY-%234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SCALEWAY-%25234f0599.svg?style%3Dfor-the-badge%26logo%3Dscaleway%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SCALEWAY-%25234f0599.svg?style=for-the-badge&logo=scaleway&logoColor=white)",
   },
   {
     name: "Vercel",
@@ -2453,7 +2453,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/vercel-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dvercel%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/vercel-%2523000000.svg?style=for-the-badge&logo=vercel&logoColor=white)",
   },
   {
     name: "Vultr",
@@ -2461,7 +2461,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr",
     markdown:
-      "[](https://img.shields.io/badge/Vultr-007BFC.svg?style%3Dfor-the-badge%26logo%3Dvultr)",
+      "[](https://img.shields.io/badge/Vultr-007BFC.svg?style=for-the-badge&logo=vultr)",
   },
   {
     name: "Android Studio",
@@ -2469,7 +2469,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Android%2520Studio-3DDC84.svg?style%3Dfor-the-badge%26logo%3Dandroid-studio%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Android%2520Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)",
   },
   {
     name: "Atom",
@@ -2477,7 +2477,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Atom-%252366595C.svg?style%3Dfor-the-badge%26logo%3Datom%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Atom-%252366595C.svg?style=for-the-badge&logo=atom&logoColor=white)",
   },
   {
     name: "CLion",
@@ -2485,7 +2485,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/CLion-black?style%3Dfor-the-badge%26logo%3Dclion%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)",
   },
   {
     name: "CodePen",
@@ -2493,7 +2493,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/CodePen-white?style%3Dfor-the-badge%26logo%3Dcodepen%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/CodePen-white?style=for-the-badge&logo=codepen&logoColor=black)",
   },
   {
     name: "CodeSandbox",
@@ -2501,7 +2501,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB",
     markdown:
-      "[](https://img.shields.io/badge/Codesandbox-040404?style%3Dfor-the-badge%26logo%3Dcodesandbox%26logoColor%3DDBDBDB)",
+      "[](https://img.shields.io/badge/Codesandbox-040404?style=for-the-badge&logo=codesandbox&logoColor=DBDBDB)",
   },
   {
     name: "Eclipse",
@@ -2509,7 +2509,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Eclipse-FE7A16.svg?style%3Dfor-the-badge%26logo%3DEclipse%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)",
   },
   {
     name: "GoLand",
@@ -2517,7 +2517,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/GoLand-0f0f0f?%26style%3Dfor-the-badge%26logo%3Dgoland%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/GoLand-0f0f0f?&style=for-the-badge&logo=goland&logoColor=white)",
   },
   {
     name: "IntelliJ IDEA",
@@ -2525,7 +2525,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style%3Dfor-the-badge%26logo%3Dintellij-idea%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)",
   },
   {
     name: "Jupyter Notebook",
@@ -2533,7 +2533,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/jupyter-%2523FA0F00.svg?style%3Dfor-the-badge%26logo%3Djupyter%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/jupyter-%2523FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)",
   },
   {
     name: "Neovim",
@@ -2541,7 +2541,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NeoVim-%2357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/NeoVim-%252357A143.svg?%26style%3Dfor-the-badge%26logo%3Dneovim%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/NeoVim-%252357A143.svg?&style=for-the-badge&logo=neovim&logoColor=white)",
   },
   {
     name: "NetBeans IDE",
@@ -2549,7 +2549,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style%3Dfor-the-badge%26logo%3Dapache-netbeans-ide%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)",
   },
   {
     name: "Notepad++",
@@ -2557,7 +2557,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2b%2b&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg?style%3Dfor-the-badge%26logo%3Dnotepad%252b%252b%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Notepad%2B%2B-90E59A.svg?style=for-the-badge&logo=notepad%252b%252b&logoColor=black)",
   },
   {
     name: "Obsidian",
@@ -2565,7 +2565,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Obsidian-%23483699.svg?style=for-the-badge&logo=obsidian&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Obsidian-%2523483699.svg?style%3Dfor-the-badge%26logo%3Dobsidian%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Obsidian-%2523483699.svg?style=for-the-badge&logo=obsidian&logoColor=white)",
   },
   {
     name: "P5js Editor",
@@ -2573,7 +2573,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/p5.js%20editor-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF",
     markdown:
-      "[](https://img.shields.io/badge/p5.js%2520editor-ED225D?style%3Dfor-the-badge%26logo%3Dp5.js%26logoColor%3DFFFFFF)",
+      "[](https://img.shields.io/badge/p5.js%2520editor-ED225D?style=for-the-badge&logo=p5.js&logoColor=FFFFFF)",
   },
   {
     name: "PhpStorm",
@@ -2581,7 +2581,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid",
     markdown:
-      "[](https://img.shields.io/badge/phpstorm-143?style%3Dfor-the-badge%26logo%3Dphpstorm%26logoColor%3Dblack%26color%3Dblack%26labelColor%3Ddarkorchid)",
+      "[](https://img.shields.io/badge/phpstorm-143?style=for-the-badge&logo=phpstorm&logoColor=black&color=black&labelColor=darkorchid)",
   },
   {
     name: "PyCharm",
@@ -2589,7 +2589,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green",
     markdown:
-      "[](https://img.shields.io/badge/pycharm-143?style%3Dfor-the-badge%26logo%3Dpycharm%26logoColor%3Dblack%26color%3Dblack%26labelColor%3Dgreen)",
+      "[](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)",
   },
   {
     name: "Replit",
@@ -2597,7 +2597,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Replit-DD1200?style%3Dfor-the-badge%26logo%3DReplit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Replit-DD1200?style=for-the-badge&logo=Replit&logoColor=white)",
   },
   {
     name: "Rider",
@@ -2605,7 +2605,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson",
     markdown:
-      "[](https://img.shields.io/badge/Rider-000000.svg?style%3Dfor-the-badge%26logo%3DRider%26logoColor%3Dwhite%26color%3Dblack%26labelColor%3Dcrimson)",
+      "[](https://img.shields.io/badge/Rider-000000.svg?style=for-the-badge&logo=Rider&logoColor=white&color=black&labelColor=crimson)",
   },
   {
     name: "RStudio",
@@ -2613,7 +2613,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/RStudio-4285F4?style%3Dfor-the-badge%26logo%3Drstudio%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/RStudio-4285F4?style=for-the-badge&logo=rstudio&logoColor=white)",
   },
   {
     name: "Spyder",
@@ -2621,7 +2621,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%20ide&logoColor=maroon",
     markdown:
-      "[](https://img.shields.io/badge/Spyder-838485?style%3Dfor-the-badge%26logo%3Dspyder%2520ide%26logoColor%3Dmaroon)",
+      "[](https://img.shields.io/badge/Spyder-838485?style=for-the-badge&logo=spyder%2520ide&logoColor=maroon)",
   },
   {
     name: "Sublime Text",
@@ -2629,7 +2629,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important",
     markdown:
-      "[](https://img.shields.io/badge/sublime_text-%2523575757.svg?style%3Dfor-the-badge%26logo%3Dsublime-text%26logoColor%3Dimportant)",
+      "[](https://img.shields.io/badge/sublime_text-%2523575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)",
   },
   {
     name: "Vim",
@@ -2637,7 +2637,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/VIM-%252311AB00.svg?style%3Dfor-the-badge%26logo%3Dvim%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/VIM-%252311AB00.svg?style=for-the-badge&logo=vim&logoColor=white)",
   },
   {
     name: "Visual Studio Code",
@@ -2645,7 +2645,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Visual%2520Studio%2520Code-0078d7.svg?style%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Visual%2520Studio%2520Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)",
   },
   {
     name: "VS Code Insiders",
@@ -2653,7 +2653,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/VS%20Code%20Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/VS%2520Code%2520Insiders-35b393.svg?style%3Dfor-the-badge%26logo%3Dvisual-studio-code%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/VS%2520Code%2520Insiders-35b393.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)",
   },
   {
     name: "Visual Studio",
@@ -2661,7 +2661,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Visual%2520Studio-5C2D91.svg?style%3Dfor-the-badge%26logo%3Dvisual-studio%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Visual%2520Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)",
   },
   {
     name: "WebStorm",
@@ -2669,7 +2669,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black",
     markdown:
-      "[](https://img.shields.io/badge/webstorm-143?style%3Dfor-the-badge%26logo%3Dwebstorm%26logoColor%3Dwhite%26color%3Dblack)",
+      "[](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)",
   },
   {
     name: "Xcode",
@@ -2677,7 +2677,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Xcode-007ACC?style%3Dfor-the-badge%26logo%3DXcode%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)",
   },
   {
     name: "Zend",
@@ -2685,7 +2685,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA",
     markdown:
-      "[](https://img.shields.io/badge/Zend-fff?style%3Dfor-the-badge%26logo%3Dzend%26logoColor%3D0679EA)",
+      "[](https://img.shields.io/badge/Zend-fff?style=for-the-badge&logo=zend&logoColor=0679EA)",
   },
   {
     name: "Stackblitz",
@@ -2693,7 +2693,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD",
     markdown:
-      "[](https://img.shields.io/badge/Stackblitz-fff?style%3Dfor-the-badge%26logo%3DStackblitz%26logoColor%3D1389FD)",
+      "[](https://img.shields.io/badge/Stackblitz-fff?style=for-the-badge&logo=Stackblitz&logoColor=1389FD)",
   },
   {
     name: "Apache Groovy",
@@ -2701,7 +2701,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Groovy-4298B8.svg?style=for-the-badge&logo=Apache+Groovy&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Groovy-4298B8.svg?style%3Dfor-the-badge%26logo%3DApache%2BGroovy%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apache%2520Groovy-4298B8.svg?style=for-the-badge&logo=Apache%2BGroovy&logoColor=white)",
   },
   {
     name: "C",
@@ -2709,7 +2709,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/c-%252300599C.svg?style%3Dfor-the-badge%26logo%3Dc%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/c-%252300599C.svg?style=for-the-badge&logo=c&logoColor=white)",
   },
   {
     name: "C#",
@@ -2717,7 +2717,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/c%2523-%2523239120.svg?style%3Dfor-the-badge%26logo%3Dc-sharp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/c%2523-%2523239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)",
   },
   {
     name: "C++",
@@ -2725,7 +2725,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/c%2B%2B-%252300599C.svg?style%3Dfor-the-badge%26logo%3Dc%252B%252B%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/c%2B%2B-%252300599C.svg?style=for-the-badge&logo=c%252B%252B&logoColor=white)",
   },
   {
     name: "Clojure",
@@ -2733,7 +2733,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure",
     markdown:
-      "[](https://img.shields.io/badge/Clojure-%2523Clojure.svg?style%3Dfor-the-badge%26logo%3DClojure%26logoColor%3DClojure)",
+      "[](https://img.shields.io/badge/Clojure-%2523Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure)",
   },
   {
     name: "Crystal",
@@ -2741,7 +2741,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/crystal-%23000000.svg?style=for-the-badge&logo=crystal&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/crystal-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dcrystal%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/crystal-%2523000000.svg?style=for-the-badge&logo=crystal&logoColor=white)",
   },
   {
     name: "CSS3",
@@ -2749,7 +2749,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/css3-%25231572B6.svg?style%3Dfor-the-badge%26logo%3Dcss3%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/css3-%25231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)",
   },
   {
     name: "Dart",
@@ -2757,7 +2757,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/dart-%25230175C2.svg?style%3Dfor-the-badge%26logo%3Ddart%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/dart-%25230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)",
   },
   {
     name: "Elixir",
@@ -2765,7 +2765,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/elixir-%234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/elixir-%25234B275F.svg?style%3Dfor-the-badge%26logo%3Delixir%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/elixir-%25234B275F.svg?style=for-the-badge&logo=elixir&logoColor=white)",
   },
   {
     name: "Elm",
@@ -2773,7 +2773,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Elm-60B5CC?style%3Dfor-the-badge%26logo%3Delm%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Elm-60B5CC?style=for-the-badge&logo=elm&logoColor=white)",
   },
   {
     name: "Erlang",
@@ -2781,7 +2781,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533",
     markdown:
-      "[](https://img.shields.io/badge/Erlang-white.svg?style%3Dfor-the-badge%26logo%3Derlang%26logoColor%3Da90533)",
+      "[](https://img.shields.io/badge/Erlang-white.svg?style=for-the-badge&logo=erlang&logoColor=a90533)",
   },
   {
     name: "Fortran",
@@ -2789,7 +2789,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Fortran-%2523734F96.svg?style%3Dfor-the-badge%26logo%3Dfortran%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Fortran-%2523734F96.svg?style=for-the-badge&logo=fortran&logoColor=white)",
   },
   {
     name: "Go/Golang",
@@ -2797,7 +2797,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/go-%252300ADD8.svg?style%3Dfor-the-badge%26logo%3Dgo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/go-%252300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)",
   },
   {
     name: "GraphQL",
@@ -2805,7 +2805,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-GraphQL-E10098?style%3Dfor-the-badge%26logo%3Dgraphql%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)",
   },
   {
     name: "Haskell",
@@ -2813,7 +2813,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Haskell-5e5086?style%3Dfor-the-badge%26logo%3Dhaskell%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Haskell-5e5086?style=for-the-badge&logo=haskell&logoColor=white)",
   },
   {
     name: "HTML5",
@@ -2821,7 +2821,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/html5-%2523E34F26.svg?style%3Dfor-the-badge%26logo%3Dhtml5%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/html5-%2523E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)",
   },
   {
     name: "Java",
@@ -2829,7 +2829,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/java-%2523ED8B00.svg?style%3Dfor-the-badge%26logo%3Dopenjdk%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/java-%2523ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)",
   },
   {
     name: "JavaScript",
@@ -2837,7 +2837,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E",
     markdown:
-      "[](https://img.shields.io/badge/javascript-%2523323330.svg?style%3Dfor-the-badge%26logo%3Djavascript%26logoColor%3D%2523F7DF1E)",
+      "[](https://img.shields.io/badge/javascript-%2523323330.svg?style=for-the-badge&logo=javascript&logoColor=%2523F7DF1E)",
   },
   {
     name: "Julia",
@@ -2845,7 +2845,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Julia-9558B2?style%3Dfor-the-badge%26logo%3Djulia%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white)",
   },
   {
     name: "Kotlin",
@@ -2853,7 +2853,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/kotlin-%25237F52FF.svg?style%3Dfor-the-badge%26logo%3Dkotlin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/kotlin-%25237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)",
   },
   {
     name: "LaTeX",
@@ -2861,7 +2861,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/latex-%2523008080.svg?style%3Dfor-the-badge%26logo%3Dlatex%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/latex-%2523008080.svg?style=for-the-badge&logo=latex&logoColor=white)",
   },
   {
     name: "Lua",
@@ -2869,7 +2869,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/lua-%25232C2D72.svg?style%3Dfor-the-badge%26logo%3Dlua%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/lua-%25232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white)",
   },
   {
     name: "Markdown",
@@ -2877,7 +2877,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/markdown-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dmarkdown%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/markdown-%2523000000.svg?style=for-the-badge&logo=markdown&logoColor=white)",
   },
   {
     name: "Nim",
@@ -2885,7 +2885,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/nim-%23FFE953.svg?style=for-the-badge&logo=nim&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/nim-%2523FFE953.svg?style%3Dfor-the-badge%26logo%3Dnim%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/nim-%2523FFE953.svg?style=for-the-badge&logo=nim&logoColor=white)",
   },
   {
     name: "Nix",
@@ -2893,7 +2893,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/NIX-5277C3.svg?style%3Dfor-the-badge%26logo%3DNixOS%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/NIX-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)",
   },
   {
     name: "Objective-C",
@@ -2901,7 +2901,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OBJECTIVE--C-%233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OBJECTIVE--C-%25233A95E3.svg?style%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OBJECTIVE--C-%25233A95E3.svg?style=for-the-badge&logo=apple&logoColor=white)",
   },
   {
     name: "Octave",
@@ -2909,7 +2909,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683",
     markdown:
-      "[](https://img.shields.io/badge/OCTAVE-darkblue?style%3Dfor-the-badge%26logo%3Doctave%26logoColor%3Dfcd683)",
+      "[](https://img.shields.io/badge/OCTAVE-darkblue?style=for-the-badge&logo=octave&logoColor=fcd683)",
   },
   {
     name: "Org Mode",
@@ -2917,7 +2917,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/orgmode-%2377AA99.svg?style=for-the-badge&logo=org&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/orgmode-%252377AA99.svg?style%3Dfor-the-badge%26logo%3Dorg%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/orgmode-%252377AA99.svg?style=for-the-badge&logo=org&logoColor=white)",
   },
   {
     name: "Perl",
@@ -2925,7 +2925,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/perl-%2339457E.svg?style=for-the-badge&logo=perl&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/perl-%252339457E.svg?style%3Dfor-the-badge%26logo%3Dperl%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/perl-%252339457E.svg?style=for-the-badge&logo=perl&logoColor=white)",
   },
   {
     name: "PHP",
@@ -2933,7 +2933,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/php-%2523777BB4.svg?style%3Dfor-the-badge%26logo%3Dphp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/php-%2523777BB4.svg?style=for-the-badge&logo=php&logoColor=white)",
   },
   {
     name: "PowerShell",
@@ -2941,7 +2941,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/PowerShell-%25235391FE.svg?style%3Dfor-the-badge%26logo%3Dpowershell%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/PowerShell-%25235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)",
   },
   {
     name: "Python",
@@ -2949,7 +2949,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54",
     markdown:
-      "[](https://img.shields.io/badge/python-3670A0?style%3Dfor-the-badge%26logo%3Dpython%26logoColor%3Dffdd54)",
+      "[](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)",
   },
   {
     name: "R Language",
@@ -2957,7 +2957,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/r-%2523276DC3.svg?style%3Dfor-the-badge%26logo%3Dr%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/r-%2523276DC3.svg?style=for-the-badge&logo=r&logoColor=white)",
   },
   {
     name: "ReScript",
@@ -2965,7 +2965,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rescript-%2314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c",
     markdown:
-      "[](https://img.shields.io/badge/rescript-%252314162c?style%3Dfor-the-badge%26logo%3Drescript%26logoColor%3De34c4c)",
+      "[](https://img.shields.io/badge/rescript-%252314162c?style=for-the-badge&logo=rescript&logoColor=e34c4c)",
   },
   {
     name: "Ruby",
@@ -2973,7 +2973,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ruby-%23CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ruby-%2523CC342D.svg?style%3Dfor-the-badge%26logo%3Druby%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ruby-%2523CC342D.svg?style=for-the-badge&logo=ruby&logoColor=white)",
   },
   {
     name: "Rust",
@@ -2981,7 +2981,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rust-%2523000000.svg?style%3Dfor-the-badge%26logo%3Drust%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rust-%2523000000.svg?style=for-the-badge&logo=rust&logoColor=white)",
   },
   {
     name: "Scala",
@@ -2989,7 +2989,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/scala-%23DC322F.svg?style=for-the-badge&logo=scala&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/scala-%2523DC322F.svg?style%3Dfor-the-badge%26logo%3Dscala%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/scala-%2523DC322F.svg?style=for-the-badge&logo=scala&logoColor=white)",
   },
   {
     name: "Shell Script",
@@ -2997,7 +2997,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/shell_script-%2523121011.svg?style%3Dfor-the-badge%26logo%3Dgnu-bash%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/shell_script-%2523121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)",
   },
   {
     name: "Solidity",
@@ -3005,7 +3005,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Solidity-%23363636.svg?style=for-the-badge&logo=solidity&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Solidity-%2523363636.svg?style%3Dfor-the-badge%26logo%3Dsolidity%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Solidity-%2523363636.svg?style=for-the-badge&logo=solidity&logoColor=white)",
   },
   {
     name: "Swift",
@@ -3013,7 +3013,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/swift-F54A2A?style%3Dfor-the-badge%26logo%3Dswift%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)",
   },
   {
     name: "TypeScript",
@@ -3021,7 +3021,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/typescript-%2523007ACC.svg?style%3Dfor-the-badge%26logo%3Dtypescript%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/typescript-%2523007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)",
   },
   {
     name: "Windows Terminal",
@@ -3029,7 +3029,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Windows%2520Terminal-%25234D4D4D.svg?style%3Dfor-the-badge%26logo%3Dwindows-terminal%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Windows%2520Terminal-%25234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white)",
   },
   {
     name: "Zig",
@@ -3037,7 +3037,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Zig-%2523F7A41D.svg?style%3Dfor-the-badge%26logo%3Dzig%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Zig-%2523F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)",
   },
   {
     name: "Keras",
@@ -3045,7 +3045,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Keras-%2523D00000.svg?style%3Dfor-the-badge%26logo%3DKeras%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Keras-%2523D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)",
   },
   {
     name: "Matplotlib",
@@ -3053,7 +3053,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Matplotlib-%2523ffffff.svg?style%3Dfor-the-badge%26logo%3DMatplotlib%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Matplotlib-%2523ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)",
   },
   {
     name: "mlflow",
@@ -3061,7 +3061,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue",
     markdown:
-      "[](https://img.shields.io/badge/mlflow-%2523d9ead3.svg?style%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dblue)",
+      "[](https://img.shields.io/badge/mlflow-%2523d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue)",
   },
   {
     name: "NumPy",
@@ -3069,7 +3069,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/numpy-%2523013243.svg?style%3Dfor-the-badge%26logo%3Dnumpy%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/numpy-%2523013243.svg?style=for-the-badge&logo=numpy&logoColor=white)",
   },
   {
     name: "Pandas",
@@ -3077,7 +3077,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/pandas-%2523150458.svg?style%3Dfor-the-badge%26logo%3Dpandas%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/pandas-%2523150458.svg?style=for-the-badge&logo=pandas&logoColor=white)",
   },
   {
     name: "Plotly",
@@ -3085,7 +3085,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Plotly-%25233F4F75.svg?style%3Dfor-the-badge%26logo%3Dplotly%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Plotly-%25233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)",
   },
   {
     name: "PyTorch",
@@ -3093,7 +3093,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style%3Dfor-the-badge%26logo%3DPyTorch%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/PyTorch-%2523EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)",
   },
   {
     name: "scikit-learn",
@@ -3101,7 +3101,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/scikit--learn-%2523F7931E.svg?style%3Dfor-the-badge%26logo%3Dscikit-learn%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/scikit--learn-%2523F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)",
   },
   {
     name: "SciPy",
@@ -3109,7 +3109,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white",
     markdown:
-      "[](https://img.shields.io/badge/SciPy-%25230C55A5.svg?style%3Dfor-the-badge%26logo%3Dscipy%26logoColor%3D%25white)",
+      "[](https://img.shields.io/badge/SciPy-%25230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%25white)",
   },
   {
     name: "TensorFlow",
@@ -3117,7 +3117,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style%3Dfor-the-badge%26logo%3DTensorFlow%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/TensorFlow-%2523FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)",
   },
   {
     name: "Apple Music",
@@ -3125,7 +3125,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apple_Music-9933CC?style%3Dfor-the-badge%26logo%3Dapple-music%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apple_Music-9933CC?style=for-the-badge&logo=apple-music&logoColor=white)",
   },
   {
     name: "Audacity",
@@ -3133,7 +3133,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Audacity-0000CC?style%3Dfor-the-badge%26logo%3Daudacity%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Audacity-0000CC?style=for-the-badge&logo=audacity&logoColor=white)",
   },
   {
     name: "Deezer",
@@ -3141,7 +3141,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Deezer-FEAA2D?style%3Dfor-the-badge%26logo%3Ddeezer%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Deezer-FEAA2D?style=for-the-badge&logo=deezer&logoColor=white)",
   },
   {
     name: "Sound Cloud",
@@ -3149,7 +3149,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/sound%20cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/sound%2520cloud-FF5500?style%3Dfor-the-badge%26logo%3Dsoundcloud%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/sound%2520cloud-FF5500?style=for-the-badge&logo=soundcloud&logoColor=white)",
   },
   {
     name: "Spotify",
@@ -3157,7 +3157,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Spotify-1ED760?style%3Dfor-the-badge%26logo%3Dspotify%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Spotify-1ED760?style=for-the-badge&logo=spotify&logoColor=white)",
   },
   {
     name: "Shazam",
@@ -3165,7 +3165,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/shazam-1476FE?style%3Dfor-the-badge%26logo%3Dshazam%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/shazam-1476FE?style=for-the-badge&logo=shazam&logoColor=white)",
   },
   {
     name: "Tidal",
@@ -3173,7 +3173,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/tidal-00FFFF?style%3Dfor-the-badge%26logo%3Dtidal%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/tidal-00FFFF?style=for-the-badge&logo=tidal&logoColor=black)",
   },
   {
     name: "YouTube Music",
@@ -3181,7 +3181,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/YouTube_Music-FF0000?style%3Dfor-the-badge%26logo%3Dyoutube-music%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)",
   },
   {
     name: "LibreOffice",
@@ -3189,7 +3189,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/LibreOffice-%252318A303?style%3Dfor-the-badge%26logo%3DLibreOffice%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/LibreOffice-%252318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)",
   },
   {
     name: "Microsoft",
@@ -3197,7 +3197,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft-0078D4?style%3Dfor-the-badge%26logo%3Dmicrosoft%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)",
   },
   {
     name: "Microsoft Access",
@@ -3205,7 +3205,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Access-A4373A?style%3Dfor-the-badge%26logo%3Dmicrosoft-access%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)",
   },
   {
     name: "Microsoft Excel",
@@ -3213,7 +3213,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Excel-217346?style%3Dfor-the-badge%26logo%3Dmicrosoft-excel%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)",
   },
   {
     name: "Microsoft Office",
@@ -3221,7 +3221,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Office-D83B01?style%3Dfor-the-badge%26logo%3Dmicrosoft-office%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)",
   },
   {
     name: "Microsoft PowerPoint",
@@ -3229,7 +3229,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style%3Dfor-the-badge%26logo%3Dmicrosoft-powerpoint%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)",
   },
   {
     name: "Microsoft SharePoint",
@@ -3237,7 +3237,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style%3Dfor-the-badge%26logo%3Dmicrosoft-sharepoint%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_SharePoint-0078D4?style=for-the-badge&logo=microsoft-sharepoint&logoColor=white)",
   },
   {
     name: "Microsoft Visio",
@@ -3245,7 +3245,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Visio-3955A3?style%3Dfor-the-badge%26logo%3Dmicrosoft-visio%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Visio-3955A3?style=for-the-badge&logo=microsoft-visio&logoColor=white)",
   },
   {
     name: "Microsoft Word",
@@ -3253,7 +3253,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Word-2B579A?style%3Dfor-the-badge%26logo%3Dmicrosoft-word%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)",
   },
   {
     name: "Alpine Linux",
@@ -3261,7 +3261,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Alpine_Linux-%230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Alpine_Linux-%25230D597F.svg?style%3Dfor-the-badge%26logo%3Dalpine-linux%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Alpine_Linux-%25230D597F.svg?style=for-the-badge&logo=alpine-linux&logoColor=white)",
   },
   {
     name: "Android",
@@ -3269,7 +3269,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Android-3DDC84?style%3Dfor-the-badge%26logo%3Dandroid%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)",
   },
   {
     name: "Arch",
@@ -3277,7 +3277,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge",
     markdown:
-      "[](https://img.shields.io/badge/Arch%2520Linux-1793D1?logo%3Darch-linux%26logoColor%3Dfff%26style%3Dfor-the-badge)",
+      "[](https://img.shields.io/badge/Arch%2520Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)",
   },
   {
     name: "Cent OS",
@@ -3285,7 +3285,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0",
     markdown:
-      "[](https://img.shields.io/badge/cent%2520os-002260?style%3Dfor-the-badge%26logo%3Dcentos%26logoColor%3DF0F0F0)",
+      "[](https://img.shields.io/badge/cent%2520os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0)",
   },
   {
     name: "Chrome OS",
@@ -3293,7 +3293,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/chrome%20os-3d89fc?style=for-the-badge&logo=google%20chrome&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/chrome%2520os-3d89fc?style%3Dfor-the-badge%26logo%3Dgoogle%2520chrome%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/chrome%2520os-3d89fc?style=for-the-badge&logo=google%2520chrome&logoColor=white)",
   },
   {
     name: "Debian",
@@ -3301,7 +3301,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Debian-D70A53?style%3Dfor-the-badge%26logo%3Ddebian%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Debian-D70A53?style=for-the-badge&logo=debian&logoColor=white)",
   },
   {
     name: "Deepin",
@@ -3309,7 +3309,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Deepin-007CFF?style%3Dfor-the-badge%26logo%3Ddeepin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)",
   },
   {
     name: "Elementary OS",
@@ -3317,7 +3317,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-elementary%20OS-black?style=for-the-badge&logo=elementary&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-elementary%2520OS-black?style%3Dfor-the-badge%26logo%3Delementary%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-elementary%2520OS-black?style=for-the-badge&logo=elementary&logoColor=white)",
   },
   {
     name: "Fedora",
@@ -3325,7 +3325,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Fedora-294172?style%3Dfor-the-badge%26logo%3Dfedora%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)",
   },
   {
     name: "FreeBSD",
@@ -3333,7 +3333,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-FreeBSD-%23870000?style=for-the-badge&logo=freebsd&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-FreeBSD-%2523870000?style%3Dfor-the-badge%26logo%3Dfreebsd%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-FreeBSD-%2523870000?style=for-the-badge&logo=freebsd&logoColor=white)",
   },
   {
     name: "Gentoo",
@@ -3341,7 +3341,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gentoo-54487A?style%3Dfor-the-badge%26logo%3Dgentoo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)",
   },
   {
     name: "iOS",
@@ -3349,7 +3349,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/iOS-000000?style%3Dfor-the-badge%26logo%3Dios%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)",
   },
   {
     name: "Kali",
@@ -3357,7 +3357,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Kali-268BEE?style%3Dfor-the-badge%26logo%3Dkalilinux%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)",
   },
   {
     name: "Kubuntu",
@@ -3365,7 +3365,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-KUbuntu-%230079C1?style=for-the-badge&logo=kubuntu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-KUbuntu-%25230079C1?style%3Dfor-the-badge%26logo%3Dkubuntu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-KUbuntu-%25230079C1?style=for-the-badge&logo=kubuntu&logoColor=white)",
   },
   {
     name: "Linux",
@@ -3373,7 +3373,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Linux-FCC624?style%3Dfor-the-badge%26logo%3Dlinux%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)",
   },
   {
     name: "Linux Mint",
@@ -3381,7 +3381,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Linux%2520Mint-87CF3E?style%3Dfor-the-badge%26logo%3DLinux%2520Mint%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Linux%2520Mint-87CF3E?style=for-the-badge&logo=Linux%2520Mint&logoColor=white)",
   },
   {
     name: "Lubuntu",
@@ -3389,7 +3389,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Lubuntu-%230065C2?style=for-the-badge&logo=lubuntu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Lubuntu-%25230065C2?style%3Dfor-the-badge%26logo%3Dlubuntu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Lubuntu-%25230065C2?style=for-the-badge&logo=lubuntu&logoColor=white)",
   },
   {
     name: "Lineageos",
@@ -3397,7 +3397,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/lineageos-167C80?style%3Dfor-the-badge%26logo%3Dlineageos%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)",
   },
   {
     name: "Manjaro",
@@ -3405,7 +3405,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Manjaro-35BF5C?style%3Dfor-the-badge%26logo%3DManjaro%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white)",
   },
   {
     name: "MX Linux",
@@ -3413,7 +3413,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-MX%20Linux-%23000000?style=for-the-badge&logo=MXlinux&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-MX%2520Linux-%2523000000?style%3Dfor-the-badge%26logo%3DMXlinux%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-MX%2520Linux-%2523000000?style=for-the-badge&logo=MXlinux&logoColor=white)",
   },
   {
     name: "macOS",
@@ -3421,7 +3421,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0",
     markdown:
-      "[](https://img.shields.io/badge/mac%2520os-000000?style%3Dfor-the-badge%26logo%3Dmacos%26logoColor%3DF0F0F0)",
+      "[](https://img.shields.io/badge/mac%2520os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0)",
   },
   {
     name: "NixOS",
@@ -3429,7 +3429,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/NIXOS-5277C3.svg?style%3Dfor-the-badge%26logo%3DNixOS%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/NIXOS-5277C3.svg?style=for-the-badge&logo=NixOS&logoColor=white)",
   },
   {
     name: "OpenWRT",
@@ -3437,7 +3437,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OpenWrt-00B5E2?style%3Dfor-the-badge%26logo%3DOpenWrt%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)",
   },
   {
     name: "OpenBSD",
@@ -3445,7 +3445,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-OpenBSD-%23FCC771?style=for-the-badge&logo=openbsd&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/-OpenBSD-%2523FCC771?style%3Dfor-the-badge%26logo%3Dopenbsd%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/-OpenBSD-%2523FCC771?style=for-the-badge&logo=openbsd&logoColor=black)",
   },
   {
     name: "openSUSE",
@@ -3453,7 +3453,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/openSUSE-%252364B345?style%3Dfor-the-badge%26logo%3DopenSUSE%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/openSUSE-%252364B345?style=for-the-badge&logo=openSUSE&logoColor=white)",
   },
   {
     name: "Pop!\\_OS",
@@ -3461,7 +3461,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Pop%21_OS-48B9C7?style%3Dfor-the-badge%26logo%3DPop%21_OS%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Pop%21_OS-48B9C7?style=for-the-badge&logo=Pop%21_OS&logoColor=white)",
   },
   {
     name: "Red Hat",
@@ -3469,7 +3469,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Red%2520Hat-EE0000?style%3Dfor-the-badge%26logo%3Dredhat%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Red%2520Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)",
   },
   {
     name: "Rocky Linux",
@@ -3477,7 +3477,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Rocky%20Linux-%2310B981?style=for-the-badge&logo=rockylinux&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Rocky%2520Linux-%252310B981?style%3Dfor-the-badge%26logo%3Drockylinux%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Rocky%2520Linux-%252310B981?style=for-the-badge&logo=rockylinux&logoColor=white)",
   },
   {
     name: "Solus",
@@ -3485,7 +3485,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Solus-%23f2f2f2.svg?style=for-the-badge&logo=solus&logoColor=5294E2",
     markdown:
-      "[](https://img.shields.io/badge/Solus-%2523f2f2f2.svg?style%3Dfor-the-badge%26logo%3Dsolus%26logoColor%3D5294E2)",
+      "[](https://img.shields.io/badge/Solus-%2523f2f2f2.svg?style=for-the-badge&logo=solus&logoColor=5294E2)",
   },
   {
     name: "SUSE",
@@ -3493,7 +3493,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SUSE-0C322C?style%3Dfor-the-badge%26logo%3DSUSE%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)",
   },
   {
     name: "Slackware",
@@ -3501,7 +3501,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Slackware-%231357BD?style=for-the-badge&logo=slackware&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Slackware-%25231357BD?style%3Dfor-the-badge%26logo%3Dslackware%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Slackware-%25231357BD?style=for-the-badge&logo=slackware&logoColor=white)",
   },
   {
     name: "Tails",
@@ -3509,7 +3509,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Tails%20-56347C?&style=for-the-badge&logo=tails&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Tails%2520-56347C?%26style%3Dfor-the-badge%26logo%3Dtails%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Tails%2520-56347C?&style=for-the-badge&logo=tails&logoColor=white)",
   },
   {
     name: "Ubuntu",
@@ -3517,7 +3517,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Ubuntu-E95420?style%3Dfor-the-badge%26logo%3Dubuntu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)",
   },
   {
     name: "Unraid",
@@ -3525,7 +3525,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/unraid-%23F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/unraid-%2523F15A2C.svg?style%3Dfor-the-badge%26logo%3Dunraid%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/unraid-%2523F15A2C.svg?style=for-the-badge&logo=unraid&logoColor=white)",
   },
   {
     name: "Wear OS",
@@ -3533,7 +3533,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Wear%2520OS-4285F4?style%3Dfor-the-badge%26logo%3Dwear-os%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Wear%2520OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)",
   },
   {
     name: "Windows",
@@ -3541,7 +3541,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Windows%207-0078D6?style=for-the-badge&logo=windows&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Windows%25207-0078D6?style%3Dfor-the-badge%26logo%3Dwindows%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Windows%25207-0078D6?style=for-the-badge&logo=windows&logoColor=white)",
   },
   {
     name: "Windows 11",
@@ -3549,7 +3549,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Windows%2011-%230079d5.svg?style=for-the-badge&logo=Windows%2011&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Windows%252011-%25230079d5.svg?style%3Dfor-the-badge%26logo%3DWindows%252011%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Windows%252011-%25230079d5.svg?style=for-the-badge&logo=Windows%252011&logoColor=white)",
   },
   {
     name: "Windows 95",
@@ -3557,7 +3557,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Windows%2095-008484?style=for-the-badge&logo=windows95&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Windows%252095-008484?style%3Dfor-the-badge%26logo%3Dwindows95%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Windows%252095-008484?style=for-the-badge&logo=windows95&logoColor=white)",
   },
   {
     name: "Windows XP",
@@ -3565,7 +3565,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Windows%20xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Windows%2520xp-003399?style%3Dfor-the-badge%26logo%3Dwindowsxp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Windows%2520xp-003399?style=for-the-badge&logo=windowsxp&logoColor=white)",
   },
   {
     name: "Zorin OS",
@@ -3573,7 +3573,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Zorin%20OS-%2310AAEB?style=for-the-badge&logo=zorin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Zorin%2520OS-%252310AAEB?style%3Dfor-the-badge%26logo%3Dzorin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Zorin%2520OS-%252310AAEB?style=for-the-badge&logo=zorin&logoColor=white)",
   },
   {
     name: "Hibernate",
@@ -3581,7 +3581,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Hibernate-59666C?style%3Dfor-the-badge%26logo%3DHibernate%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)",
   },
   {
     name: "Prisma",
@@ -3589,7 +3589,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Prisma-3982CE?style%3Dfor-the-badge%26logo%3DPrisma%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Prisma-3982CE?style=for-the-badge&logo=Prisma&logoColor=white)",
   },
   {
     name: "Sequelize",
@@ -3597,7 +3597,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Sequelize-52B0E7?style%3Dfor-the-badge%26logo%3DSequelize%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Sequelize-52B0E7?style=for-the-badge&logo=Sequelize&logoColor=white)",
   },
   {
     name: "Quill",
@@ -3605,7 +3605,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Quill-52B0E7?style%3Dfor-the-badge%26logo%3Dapache%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Quill-52B0E7?style=for-the-badge&logo=apache&logoColor=white)",
   },
   {
     name: "Airbnb",
@@ -3613,7 +3613,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Airbnb-%23ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Airbnb-%2523ff5a5f.svg?style%3Dfor-the-badge%26logo%3DAirbnb%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Airbnb-%2523ff5a5f.svg?style=for-the-badge&logo=Airbnb&logoColor=white)",
   },
   {
     name: "Alfred",
@@ -3621,7 +3621,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred",
     markdown:
-      "[](https://img.shields.io/badge/alfred-%25235C1F87.svg?style%3Dfor-the-badge%26logo%3Dalfred)",
+      "[](https://img.shields.io/badge/alfred-%25235C1F87.svg?style=for-the-badge&logo=alfred)",
   },
   {
     name: "Alfred",
@@ -3629,7 +3629,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/alfred-%235C1F87.svg?style=for-the-badge&logo=alfred",
     markdown:
-      "[](https://img.shields.io/badge/alfred-%25235C1F87.svg?style%3Dfor-the-badge%26logo%3Dalfred)",
+      "[](https://img.shields.io/badge/alfred-%25235C1F87.svg?style=for-the-badge&logo=alfred)",
   },
   {
     name: "Ansible",
@@ -3637,7 +3637,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ansible-%25231A1918.svg?style%3Dfor-the-badge%26logo%3Dansible%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ansible-%25231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)",
   },
   {
     name: "Aqua Sec",
@@ -3645,7 +3645,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/aqua-%231904DA.svg?style=for-the-badge&logo=aqua&logoColor=#0018A8",
     markdown:
-      "[](https://img.shields.io/badge/aqua-%25231904DA.svg?style%3Dfor-the-badge%26logo%3Daqua%26logoColor%3D%230018A8)",
+      "[](https://img.shields.io/badge/aqua-%25231904DA.svg?style=for-the-badge&logo=aqua&logoColor=%230018A8)",
   },
   {
     name: "Arduino",
@@ -3653,7 +3653,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Arduino-00979D?style%3Dfor-the-badge%26logo%3DArduino%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)",
   },
   {
     name: "Babel",
@@ -3661,7 +3661,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Babel-F9DC3e?style%3Dfor-the-badge%26logo%3Dbabel%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Babel-F9DC3e?style=for-the-badge&logo=babel&logoColor=black)",
   },
   {
     name: "Bitwarden",
@@ -3669,7 +3669,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/bitwarden-%23175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/bitwarden-%2523175DDC.svg?style%3Dfor-the-badge%26logo%3Dbitwarden%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/bitwarden-%2523175DDC.svg?style=for-the-badge&logo=bitwarden&logoColor=white)",
   },
   {
     name: "Cisco",
@@ -3677,7 +3677,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/cisco-%2523049fd9.svg?style%3Dfor-the-badge%26logo%3Dcisco%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/cisco-%2523049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)",
   },
   {
     name: "CMake",
@@ -3685,7 +3685,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/CMake-%23008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/CMake-%2523008FBA.svg?style%3Dfor-the-badge%26logo%3Dcmake%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/CMake-%2523008FBA.svg?style=for-the-badge&logo=cmake&logoColor=white)",
   },
   {
     name: "CodeCov",
@@ -3693,7 +3693,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/codecov-%23ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/codecov-%2523ff0077.svg?style%3Dfor-the-badge%26logo%3Dcodecov%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/codecov-%2523ff0077.svg?style=for-the-badge&logo=codecov&logoColor=white)",
   },
   {
     name: "Confluence",
@@ -3701,7 +3701,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/confluence-%2523172BF4.svg?style%3Dfor-the-badge%26logo%3Dconfluence%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/confluence-%2523172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white)",
   },
   {
     name: "Docker",
@@ -3709,7 +3709,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/docker-%25230db7ed.svg?style%3Dfor-the-badge%26logo%3Ddocker%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/docker-%25230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)",
   },
   {
     name: "ESLint",
@@ -3717,7 +3717,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ESLint-4B3263?style%3Dfor-the-badge%26logo%3Deslint%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ESLint-4B3263?style=for-the-badge&logo=eslint&logoColor=white)",
   },
   {
     name: "ElasticSearch",
@@ -3725,7 +3725,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch",
     markdown:
-      "[](https://img.shields.io/badge/-ElasticSearch-005571?style%3Dfor-the-badge%26logo%3Delasticsearch)",
+      "[](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)",
   },
   {
     name: "Espressif",
@@ -3733,7 +3733,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/espressif-E7352C.svg?style%3Dfor-the-badge%26logo%3Despressif%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)",
   },
   {
     name: "Gradle",
@@ -3741,7 +3741,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gradle-02303A.svg?style%3Dfor-the-badge%26logo%3DGradle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)",
   },
   {
     name: "Gradle",
@@ -3749,7 +3749,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gradle-02303A.svg?style%3Dfor-the-badge%26logo%3DGradle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)",
   },
   {
     name: "Grafana",
@@ -3757,7 +3757,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/grafana-%2523F46800.svg?style%3Dfor-the-badge%26logo%3Dgrafana%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/grafana-%2523F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)",
   },
   {
     name: "Home Assistant",
@@ -3765,7 +3765,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/home%20assistant-%2341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/home%2520assistant-%252341BDF5.svg?style%3Dfor-the-badge%26logo%3Dhome-assistant%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/home%2520assistant-%252341BDF5.svg?style=for-the-badge&logo=home-assistant&logoColor=white)",
   },
   {
     name: "Homebridge",
@@ -3773,7 +3773,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/homebridge-%23491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/homebridge-%2523491F59.svg?style%3Dfor-the-badge%26logo%3Dhomebridge%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/homebridge-%2523491F59.svg?style=for-the-badge&logo=homebridge&logoColor=white)",
   },
   {
     name: "Jellyfin",
@@ -3781,7 +3781,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jellyfin-%23000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC",
     markdown:
-      "[](https://img.shields.io/badge/jellyfin-%2523000B25.svg?style%3Dfor-the-badge%26logo%3DJellyfin%26logoColor%3D00A4DC)",
+      "[](https://img.shields.io/badge/jellyfin-%2523000B25.svg?style=for-the-badge&logo=Jellyfin&logoColor=00A4DC)",
   },
   {
     name: "Jira",
@@ -3789,7 +3789,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/jira-%25230A0FFF.svg?style%3Dfor-the-badge%26logo%3Djira%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/jira-%25230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)",
   },
   {
     name: "Kubernetes",
@@ -3797,7 +3797,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/kubernetes-%2523326ce5.svg?style%3Dfor-the-badge%26logo%3Dkubernetes%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/kubernetes-%2523326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)",
   },
   {
     name: "Mosquitto",
@@ -3805,7 +3805,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/mosquitto-%233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/mosquitto-%25233C5280.svg?style%3Dfor-the-badge%26logo%3Declipsemosquitto%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/mosquitto-%25233C5280.svg?style=for-the-badge&logo=eclipsemosquitto&logoColor=white)",
   },
   {
     name: "Notion",
@@ -3813,7 +3813,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Notion-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dnotion%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Notion-%2523000000.svg?style=for-the-badge&logo=notion&logoColor=white)",
   },
   {
     name: "OpenSea",
@@ -3821,7 +3821,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OpenSea-%232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OpenSea-%25232081E2.svg?style%3Dfor-the-badge%26logo%3Dopensea%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OpenSea-%25232081E2.svg?style=for-the-badge&logo=opensea&logoColor=white)",
   },
   {
     name: "Packer",
@@ -3829,7 +3829,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/packer-%23E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%2302A8EF",
     markdown:
-      "[](https://img.shields.io/badge/packer-%2523E7EEF0.svg?style%3Dfor-the-badge%26logo%3Dpacker%26logoColor%3D%252302A8EF)",
+      "[](https://img.shields.io/badge/packer-%2523E7EEF0.svg?style=for-the-badge&logo=packer&logoColor=%252302A8EF)",
   },
   {
     name: "Pi-Hole",
@@ -3837,7 +3837,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/pihole-%2396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/pihole-%252396060C.svg?style%3Dfor-the-badge%26logo%3Dpi-hole%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/pihole-%252396060C.svg?style=for-the-badge&logo=pi-hole&logoColor=white)",
   },
   {
     name: "Plex",
@@ -3845,7 +3845,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/plex-%23E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/plex-%2523E5A00D.svg?style%3Dfor-the-badge%26logo%3Dplex%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/plex-%2523E5A00D.svg?style=for-the-badge&logo=plex&logoColor=white)",
   },
   {
     name: "Portfolio",
@@ -3853,7 +3853,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139",
     markdown:
-      "[](https://img.shields.io/badge/Portfolio-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dfirefox%26logoColor%3D%23FF7139)",
+      "[](https://img.shields.io/badge/Portfolio-%2523000000.svg?style=for-the-badge&logo=firefox&logoColor=%23FF7139)",
   },
   {
     name: "Postman",
@@ -3861,7 +3861,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Postman-FF6C37?style%3Dfor-the-badge%26logo%3Dpostman%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)",
   },
   {
     name: "Power BI",
@@ -3869,7 +3869,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/power_bi-F2C811?style%3Dfor-the-badge%26logo%3Dpowerbi%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)",
   },
   {
     name: "Prezi",
@@ -3877,7 +3877,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Prezi-%23000000.svg?style=for-the-badge&logo=Prezi&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Prezi-%2523000000.svg?style%3Dfor-the-badge%26logo%3DPrezi%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Prezi-%2523000000.svg?style=for-the-badge&logo=Prezi&logoColor=white)",
   },
   {
     name: "Prometheus",
@@ -3885,7 +3885,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Prometheus-E6522C?style%3Dfor-the-badge%26logo%3DPrometheus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)",
   },
   {
     name: "Rancher",
@@ -3893,7 +3893,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/rancher-%230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/rancher-%25230075A8.svg?style%3Dfor-the-badge%26logo%3Drancher%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/rancher-%25230075A8.svg?style=for-the-badge&logo=rancher&logoColor=white)",
   },
   {
     name: "Raspberry Pi",
@@ -3901,7 +3901,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi",
     markdown:
-      "[](https://img.shields.io/badge/-RaspberryPi-C51A4A?style%3Dfor-the-badge%26logo%3DRaspberry-Pi)",
+      "[](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi)",
   },
   {
     name: "SonarLint",
@@ -3909,7 +3909,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/SonarLint-CB2029?style%3Dfor-the-badge%26logo%3DSONARLINT%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/SonarLint-CB2029?style=for-the-badge&logo=SONARLINT&logoColor=white)",
   },
   {
     name: "SonarQube",
@@ -3917,7 +3917,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD",
     markdown:
-      "[](https://img.shields.io/badge/SonarQube-black?style%3Dfor-the-badge%26logo%3Dsonarqube%26logoColor%3D4E9BCD)",
+      "[](https://img.shields.io/badge/SonarQube-black?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)",
   },
   {
     name: "Splunk",
@@ -3925,7 +3925,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/splunk-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dsplunk%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/splunk-%2523000000.svg?style=for-the-badge&logo=splunk&logoColor=white)",
   },
   {
     name: "Swagger",
@@ -3933,7 +3933,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Swagger-%2523Clojure?style%3Dfor-the-badge%26logo%3Dswagger%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Swagger-%2523Clojure?style=for-the-badge&logo=swagger&logoColor=white)",
   },
   {
     name: "TOR",
@@ -3941,7 +3941,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/tor-%237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/tor-%25237E4798.svg?style%3Dfor-the-badge%26logo%3Dtor-project%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/tor-%25237E4798.svg?style=for-the-badge&logo=tor-project&logoColor=white)",
   },
   {
     name: "Terraform",
@@ -3949,7 +3949,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/terraform-%25235835CC.svg?style%3Dfor-the-badge%26logo%3Dterraform%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/terraform-%25235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)",
   },
   {
     name: "Trello",
@@ -3957,7 +3957,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Trello-%2523026AA7.svg?style%3Dfor-the-badge%26logo%3DTrello%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Trello-%2523026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)",
   },
   {
     name: "Trello",
@@ -3965,7 +3965,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Trello-%2523026AA7.svg?style%3Dfor-the-badge%26logo%3DTrello%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Trello-%2523026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)",
   },
   {
     name: "Uber",
@@ -3973,7 +3973,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Uber-%23000000.svg?style=for-the-badge&logo=Uber&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Uber-%2523000000.svg?style%3Dfor-the-badge%26logo%3DUber%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Uber-%2523000000.svg?style=for-the-badge&logo=Uber&logoColor=white)",
   },
   {
     name: "Ubiquiti",
@@ -3981,7 +3981,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ubiquiti-%230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ubiquiti-%25230559C9.svg?style%3Dfor-the-badge%26logo%3Dubiquiti%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ubiquiti-%25230559C9.svg?style=for-the-badge&logo=ubiquiti&logoColor=white)",
   },
   {
     name: "Vagrant",
@@ -3989,7 +3989,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/vagrant-%231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/vagrant-%25231563FF.svg?style%3Dfor-the-badge%26logo%3Dvagrant%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/vagrant-%25231563FF.svg?style=for-the-badge&logo=vagrant&logoColor=white)",
   },
   {
     name: "Wireguard",
@@ -3997,7 +3997,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/wireguard-%2388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/wireguard-%252388171A.svg?style%3Dfor-the-badge%26logo%3Dwireguard%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/wireguard-%252388171A.svg?style=for-the-badge&logo=wireguard&logoColor=white)",
   },
   {
     name: "XFCE",
@@ -4005,7 +4005,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/XFCE-%232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/XFCE-%25232284F2.svg?style%3Dfor-the-badge%26logo%3Dxfce%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/XFCE-%25232284F2.svg?style=for-the-badge&logo=xfce&logoColor=white)",
   },
   {
     name: "Zigbee",
@@ -4013,7 +4013,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/zigbee-%23EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/zigbee-%2523EB0443.svg?style%3Dfor-the-badge%26logo%3Dzigbee%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/zigbee-%2523EB0443.svg?style=for-the-badge&logo=zigbee&logoColor=white)",
   },
   {
     name: "Qiskit",
@@ -4021,7 +4021,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Qiskit-%236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Qiskit-%25236929C4.svg?style%3Dfor-the-badge%26logo%3DQiskit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Qiskit-%25236929C4.svg?style=for-the-badge&logo=Qiskit&logoColor=white)",
   },
   {
     name: "Baidu",
@@ -4029,7 +4029,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Baidu-2932E1?style%3Dfor-the-badge%26logo%3DBaidu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Baidu-2932E1?style=for-the-badge&logo=Baidu&logoColor=white)",
   },
   {
     name: "Bing",
@@ -4037,7 +4037,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft%20Bing-258FFA?style=for-the-badge&logo=Microsoft%20Bing&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft%2520Bing-258FFA?style%3Dfor-the-badge%26logo%3DMicrosoft%2520Bing%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft%2520Bing-258FFA?style=for-the-badge&logo=Microsoft%2520Bing&logoColor=white)",
   },
   {
     name: "DuckDuckGo",
@@ -4045,7 +4045,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/DuckDuckGo-DE5833?style%3Dfor-the-badge%26logo%3DDuckDuckGo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/DuckDuckGo-DE5833?style=for-the-badge&logo=DuckDuckGo&logoColor=white)",
   },
   {
     name: "Google",
@@ -4053,7 +4053,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/google-4285F4?style%3Dfor-the-badge%26logo%3Dgoogle%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)",
   },
   {
     name: "Yahoo!",
@@ -4061,7 +4061,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Yahoo!-6001D2?style=for-the-badge&logo=Yahoo!&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Yahoo%21-6001D2?style%3Dfor-the-badge%26logo%3DYahoo%21%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Yahoo%21-6001D2?style=for-the-badge&logo=Yahoo%21&logoColor=white)",
   },
   {
     name: "Apache",
@@ -4069,7 +4069,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/apache-%2523D42029.svg?style%3Dfor-the-badge%26logo%3Dapache%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/apache-%2523D42029.svg?style=for-the-badge&logo=apache&logoColor=white)",
   },
   {
     name: "Apache Airflow",
@@ -4077,7 +4077,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=Apache%20Airflow&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Airflow-017CEE?style%3Dfor-the-badge%26logo%3DApache%2520Airflow%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apache%2520Airflow-017CEE?style=for-the-badge&logo=Apache%2520Airflow&logoColor=white)",
   },
   {
     name: "Apache Ant",
@@ -4085,7 +4085,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Ant-A81C7D?style=for-the-badge&logo=Apache%20Ant&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Ant-A81C7D?style%3Dfor-the-badge%26logo%3DApache%2520Ant%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apache%2520Ant-A81C7D?style=for-the-badge&logo=Apache%2520Ant&logoColor=white)",
   },
   {
     name: "Apache Flink",
@@ -4093,7 +4093,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Flink-E6526F?style=for-the-badge&logo=Apache%20Flink&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Flink-E6526F?style%3Dfor-the-badge%26logo%3DApache%2520Flink%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apache%2520Flink-E6526F?style=for-the-badge&logo=Apache%2520Flink&logoColor=white)",
   },
   {
     name: "Apache Maven",
@@ -4101,7 +4101,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apache%2520Maven-C71A36?style%3Dfor-the-badge%26logo%3DApache%2520Maven%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apache%2520Maven-C71A36?style=for-the-badge&logo=Apache%2520Maven&logoColor=white)",
   },
   {
     name: "Apache Tomcat",
@@ -4109,7 +4109,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/apache%2520tomcat-%2523F8DC75.svg?style%3Dfor-the-badge%26logo%3Dapache-tomcat%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/apache%2520tomcat-%2523F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black)",
   },
   {
     name: "Gunicorn",
@@ -4117,7 +4117,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/gunicorn-%298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/gunicorn-%25298729.svg?style%3Dfor-the-badge%26logo%3Dgunicorn%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/gunicorn-%25298729.svg?style=for-the-badge&logo=gunicorn&logoColor=white)",
   },
   {
     name: "Jenkins",
@@ -4125,7 +4125,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/jenkins-%25232C5263.svg?style%3Dfor-the-badge%26logo%3Djenkins%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/jenkins-%25232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white)",
   },
   {
     name: "Nginx",
@@ -4133,7 +4133,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/nginx-%2523009639.svg?style%3Dfor-the-badge%26logo%3Dnginx%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/nginx-%2523009639.svg?style=for-the-badge&logo=nginx&logoColor=white)",
   },
   {
     name: "Airtable",
@@ -4141,7 +4141,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Airtable-18BFFF?style%3Dfor-the-badge%26logo%3DAirtable%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Airtable-18BFFF?style=for-the-badge&logo=Airtable&logoColor=white)",
   },
   {
     name: "Discord",
@@ -4149,7 +4149,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Discord-%25235865F2.svg?style%3Dfor-the-badge%26logo%3Ddiscord%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Discord-%25235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)",
   },
   {
     name: "Facebook",
@@ -4157,7 +4157,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Facebook-%25231877F2.svg?style%3Dfor-the-badge%26logo%3DFacebook%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Facebook-%25231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)",
   },
   {
     name: "Gmail",
@@ -4165,7 +4165,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gmail-D14836?style%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)",
   },
   {
     name: "Goodreads",
@@ -4173,7 +4173,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213",
     markdown:
-      "[](https://img.shields.io/badge/Goodreads-F3F1EA?style%3Dfor-the-badge%26logo%3Dgoodreads%26logoColor%3D372213)",
+      "[](https://img.shields.io/badge/Goodreads-F3F1EA?style=for-the-badge&logo=goodreads&logoColor=372213)",
   },
   {
     name: "Google Meet",
@@ -4181,7 +4181,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Google%20Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Google%2520Meet-00897B?style%3Dfor-the-badge%26logo%3Dgoogle-meet%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Google%2520Meet-00897B?style=for-the-badge&logo=google-meet&logoColor=white)",
   },
   {
     name: "Instagram",
@@ -4189,7 +4189,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Instagram-%2523E4405F.svg?style%3Dfor-the-badge%26logo%3DInstagram%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Instagram-%2523E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)",
   },
   {
     name: "KakaoTalk",
@@ -4197,7 +4197,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000",
     markdown:
-      "[](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style%3Dfor-the-badge%26logo%3Dkakaotalk%26logoColor%3D000000)",
+      "[](https://img.shields.io/badge/kakaotalk-ffcd00.svg?style=for-the-badge&logo=kakaotalk&logoColor=000000)",
   },
   {
     name: "Line",
@@ -4205,7 +4205,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Line-00C300?style%3Dfor-the-badge%26logo%3Dline%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)",
   },
   {
     name: "LinkedIn",
@@ -4213,7 +4213,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/linkedin-%25230077B5.svg?style%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/linkedin-%25230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)",
   },
   {
     name: "Linktree",
@@ -4221,7 +4221,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/linktree-1de9b6?style%3Dfor-the-badge%26logo%3Dlinktree%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/linktree-1de9b6?style=for-the-badge&logo=linktree&logoColor=white)",
   },
   {
     name: "Meetup",
@@ -4229,7 +4229,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Meetup-f64363?style%3Dfor-the-badge%26logo%3Dmeetup%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Meetup-f64363?style=for-the-badge&logo=meetup&logoColor=white)",
   },
   {
     name: "Messenger",
@@ -4237,7 +4237,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Messenger-00B2FF?style%3Dfor-the-badge%26logo%3Dmessenger%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)",
   },
   {
     name: "Mastodon",
@@ -4245,7 +4245,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-MASTODON-%25232B90D9?style%3Dfor-the-badge%26logo%3Dmastodon%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-MASTODON-%25232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)",
   },
   {
     name: "Microsoft Outlook",
@@ -4253,7 +4253,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style%3Dfor-the-badge%26logo%3Dmicrosoft-outlook%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)",
   },
   {
     name: "Odysee",
@@ -4261,7 +4261,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/odysee-EF1970?style%3Dfor-the-badge%26logo%3DOdysee%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/odysee-EF1970?style=for-the-badge&logo=Odysee&logoColor=white)",
   },
   {
     name: "Pinterest",
@@ -4269,7 +4269,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Pinterest-%23E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Pinterest-%2523E60023.svg?style%3Dfor-the-badge%26logo%3DPinterest%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Pinterest-%2523E60023.svg?style=for-the-badge&logo=Pinterest&logoColor=white)",
   },
   {
     name: "Protonmail",
@@ -4277,7 +4277,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/ProtonMail-8B89CC?style%3Dfor-the-badge%26logo%3Dprotonmail%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)",
   },
   {
     name: "Polywork",
@@ -4285,7 +4285,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/Polywork-543DE0?style%3Dfor-the-badge%26logo%3Dpolywork%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/Polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=black)",
   },
   {
     name: "Reddit",
@@ -4293,7 +4293,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Reddit-FF4500?style%3Dfor-the-badge%26logo%3Dreddit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
   },
   {
     name: "Signal",
@@ -4301,7 +4301,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Signal-%23039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Signal-%2523039BE5.svg?style%3Dfor-the-badge%26logo%3DSignal%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Signal-%2523039BE5.svg?style=for-the-badge&logo=Signal&logoColor=white)",
   },
   {
     name: "Skype",
@@ -4309,7 +4309,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Skype-%2300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Skype-%252300AFF0.svg?style%3Dfor-the-badge%26logo%3DSkype%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Skype-%252300AFF0.svg?style=for-the-badge&logo=Skype&logoColor=white)",
   },
   {
     name: "Slack",
@@ -4317,7 +4317,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Slack-4A154B?style%3Dfor-the-badge%26logo%3Dslack%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
   },
   {
     name: "Snapchat",
@@ -4325,7 +4325,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Snapchat-%23FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Snapchat-%2523FFFC00.svg?style%3Dfor-the-badge%26logo%3DSnapchat%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Snapchat-%2523FFFC00.svg?style=for-the-badge&logo=Snapchat&logoColor=white)",
   },
   {
     name: "TeamSpeak",
@@ -4333,7 +4333,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/TeamSpeak-2580C3?style%3Dfor-the-badge%26logo%3Dteamspeak%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=teamspeak&logoColor=white)",
   },
   {
     name: "Telegram",
@@ -4341,7 +4341,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Telegram-2CA5E0?style%3Dfor-the-badge%26logo%3Dtelegram%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
   },
   {
     name: "Tencent QQ",
@@ -4349,7 +4349,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Tencent%23QQ-%2312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Tencent%2523QQ-%252312B7F5?style%3Dfor-the-badge%26logo%3Dtencentqq%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Tencent%2523QQ-%252312B7F5?style=for-the-badge&logo=tencentqq&logoColor=white)",
   },
   {
     name: "TikTok",
@@ -4357,7 +4357,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/TikTok-%2523000000.svg?style%3Dfor-the-badge%26logo%3DTikTok%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/TikTok-%2523000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)",
   },
   {
     name: "Tumblr",
@@ -4365,7 +4365,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Tumblr-%2336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Tumblr-%252336465D.svg?style%3Dfor-the-badge%26logo%3DTumblr%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Tumblr-%252336465D.svg?style=for-the-badge&logo=Tumblr&logoColor=white)",
   },
   {
     name: "Tutanota",
@@ -4373,7 +4373,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Tutanota-840010?style%3Dfor-the-badge%26logo%3DTutanota%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)",
   },
   {
     name: "Twitch",
@@ -4381,7 +4381,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Twitch-%239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Twitch-%25239146FF.svg?style%3Dfor-the-badge%26logo%3DTwitch%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Twitch-%25239146FF.svg?style=for-the-badge&logo=Twitch&logoColor=white)",
   },
   {
     name: "Twitter",
@@ -4389,7 +4389,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style%3Dfor-the-badge%26logo%3DTwitter%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Twitter-%25231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)",
   },
   {
     name: "Viber",
@@ -4397,7 +4397,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Viber-8B66A9?style%3Dfor-the-badge%26logo%3Dviber%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Viber-8B66A9?style=for-the-badge&logo=viber&logoColor=white)",
   },
   {
     name: "WeChat",
@@ -4405,7 +4405,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/WeChat-07C160?style%3Dfor-the-badge%26logo%3Dwechat%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)",
   },
   {
     name: "WhatsApp",
@@ -4413,7 +4413,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/WhatsApp-25D366?style%3Dfor-the-badge%26logo%3Dwhatsapp%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)",
   },
   {
     name: "Wire",
@@ -4421,7 +4421,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Wire-B71C1C?style%3Dfor-the-badge%26logo%3Dwire%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)",
   },
   {
     name: "Xbox",
@@ -4429,7 +4429,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Xbox-%23107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Xbox-%2523107C10.svg?style%3Dfor-the-badge%26logo%3DXbox%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Xbox-%2523107C10.svg?style=for-the-badge&logo=Xbox&logoColor=white)",
   },
   {
     name: "XING",
@@ -4437,7 +4437,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/xing-%23006567.svg?style=for-the-badge&logo=xing&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/xing-%2523006567.svg?style%3Dfor-the-badge%26logo%3Dxing%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/xing-%2523006567.svg?style=for-the-badge&logo=xing&logoColor=white)",
   },
   {
     name: "YouTube",
@@ -4445,7 +4445,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/YouTube-%2523FF0000.svg?style%3Dfor-the-badge%26logo%3DYouTube%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/YouTube-%2523FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)",
   },
   {
     name: "Zoom",
@@ -4453,7 +4453,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Zoom-2D8CFF?style%3Dfor-the-badge%26logo%3Dzoom%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)",
   },
   {
     name: "Threads",
@@ -4461,7 +4461,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Threads-000000?style%3Dfor-the-badge%26logo%3DThreads%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=Threads&logoColor=white)",
   },
   {
     name: "Apple",
@@ -4469,7 +4469,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apple-%2523000000.svg?style%3Dfor-the-badge%26logo%3Dapple%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apple-%2523000000.svg?style=for-the-badge&logo=apple&logoColor=white)",
   },
   {
     name: "ASUS",
@@ -4477,7 +4477,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/asus-000080.svg?style%3Dfor-the-badge%26logo%3Dasus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/asus-000080.svg?style=for-the-badge&logo=asus&logoColor=white)",
   },
   {
     name: "BlackBerry",
@@ -4485,7 +4485,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/blackberry-808080.svg?style%3Dfor-the-badge%26logo%3Dblackberry%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/blackberry-808080.svg?style=for-the-badge&logo=blackberry&logoColor=white)",
   },
   {
     name: "Huawei",
@@ -4493,7 +4493,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Huawei-%23FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Huawei-%2523FF0000.svg?style%3Dfor-the-badge%26logo%3Dhuawei%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Huawei-%2523FF0000.svg?style=for-the-badge&logo=huawei&logoColor=white)",
   },
   {
     name: "Lenovo",
@@ -4501,7 +4501,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/lenovo-E2231A?style%3Dfor-the-badge%26logo%3Dlenovo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/lenovo-E2231A?style=for-the-badge&logo=lenovo&logoColor=white)",
   },
   {
     name: "LG",
@@ -4509,7 +4509,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/lg-a50034.svg?style%3Dfor-the-badge%26logo%3Dlg%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/lg-a50034.svg?style=for-the-badge&logo=lg&logoColor=white)",
   },
   {
     name: "OnePlus",
@@ -4517,7 +4517,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/OnePlus-%23F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/OnePlus-%2523F5010C.svg?style%3Dfor-the-badge%26logo%3Doneplus%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/OnePlus-%2523F5010C.svg?style=for-the-badge&logo=oneplus&logoColor=white)",
   },
   {
     name: "Motorola",
@@ -4525,7 +4525,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Motorola-%23E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Motorola-%2523E1140A.svg?style%3Dfor-the-badge%26logo%3Dmotorola%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Motorola-%2523E1140A.svg?style=for-the-badge&logo=motorola&logoColor=white)",
   },
   {
     name: "Nokia",
@@ -4533,7 +4533,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Nokia-%23124191.svg?style=for-the-badge&logo=nokia&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Nokia-%2523124191.svg?style%3Dfor-the-badge%26logo%3Dnokia%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Nokia-%2523124191.svg?style=for-the-badge&logo=nokia&logoColor=white)",
   },
   {
     name: "Samsung",
@@ -4541,7 +4541,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Samsung-%25231428A0.svg?style%3Dfor-the-badge%26logo%3Dsamsung%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Samsung-%25231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white)",
   },
   {
     name: "Xiaomi",
@@ -4549,7 +4549,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Xiaomi-%23FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Xiaomi-%2523FF6900.svg?style%3Dfor-the-badge%26logo%3Dxiaomi%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Xiaomi-%2523FF6900.svg?style=for-the-badge&logo=xiaomi&logoColor=white)",
   },
   {
     name: "App Store",
@@ -4557,7 +4557,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/App_Store-0D96F6?style%3Dfor-the-badge%26logo%3Dapp-store%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)",
   },
   {
     name: "F-Droid",
@@ -4565,7 +4565,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/F_Droid-1976D2?style%3Dfor-the-badge%26logo%3Df-droid%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/F_Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)",
   },
   {
     name: "Play Store",
@@ -4573,7 +4573,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Google_Play-414141?style%3Dfor-the-badge%26logo%3Dgoogle-play%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)",
   },
   {
     name: "Amazon Prime",
@@ -4581,7 +4581,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Amazon%20Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Amazon%2520Prime-0F79AF?style%3Dfor-the-badge%26logo%3Damazonprime%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Amazon%2520Prime-0F79AF?style=for-the-badge&logo=amazonprime&logoColor=white)",
   },
   {
     name: "Apple TV",
@@ -4589,7 +4589,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Apple%20TV-000000?style=for-the-badge&logo=Apple%20TV&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Apple%2520TV-000000?style%3Dfor-the-badge%26logo%3DApple%2520TV%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Apple%2520TV-000000?style=for-the-badge&logo=Apple%2520TV&logoColor=white)",
   },
   {
     name: "Crunchyroll",
@@ -4597,7 +4597,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Crunchyroll-F47521?style%3Dfor-the-badge%26logo%3Dcrunchyroll%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)",
   },
   {
     name: "Facebook Gaming",
@@ -4605,7 +4605,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Facebook%20Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Facebook%2520Gaming-015BE5?style%3Dfor-the-badge%26logo%3Dfacebookgaming%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Facebook%2520Gaming-015BE5?style=for-the-badge&logo=facebookgaming&logoColor=white)",
   },
   {
     name: "Facebook Live",
@@ -4613,7 +4613,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Facebook%20Live-ED4242?style=for-the-badge&logo=Facebook%20Live&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Facebook%2520Live-ED4242?style%3Dfor-the-badge%26logo%3DFacebook%2520Live%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Facebook%2520Live-ED4242?style=for-the-badge&logo=Facebook%2520Live&logoColor=white)",
   },
   {
     name: "Fire TV",
@@ -4621,7 +4621,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/fire%20tv-fc3b2d?style=for-the-badge&logo=amazon%20fire%20tv&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/fire%2520tv-fc3b2d?style%3Dfor-the-badge%26logo%3Damazon%2520fire%2520tv%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/fire%2520tv-fc3b2d?style=for-the-badge&logo=amazon%2520fire%2520tv&logoColor=white)",
   },
   {
     name: "Hulu",
@@ -4629,7 +4629,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/hulu-1CE783?style%3Dfor-the-badge%26logo%3Dhulu%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)",
   },
   {
     name: "Netflix",
@@ -4637,7 +4637,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Netflix-E50914?style%3Dfor-the-badge%26logo%3Dnetflix%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)",
   },
   {
     name: "Roku",
@@ -4645,7 +4645,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/roku-6f1ab1?style%3Dfor-the-badge%26logo%3Droku%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/roku-6f1ab1?style=for-the-badge&logo=roku&logoColor=white)",
   },
   {
     name: "Twitch",
@@ -4653,7 +4653,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Twitch-9347FF?style%3Dfor-the-badge%26logo%3Dtwitch%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Twitch-9347FF?style=for-the-badge&logo=twitch&logoColor=white)",
   },
   {
     name: "Youtube Gaming",
@@ -4661,7 +4661,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Youtube%20Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Youtube%2520Gaming-FF0000?style%3Dfor-the-badge%26logo%3DYoutubegaming%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Youtube%2520Gaming-FF0000?style=for-the-badge&logo=Youtubegaming&logoColor=white)",
   },
   {
     name: "Cypress",
@@ -4669,7 +4669,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-cypress-%23E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e",
     markdown:
-      "[](https://img.shields.io/badge/-cypress-%2523E5E5E5?style%3Dfor-the-badge%26logo%3Dcypress%26logoColor%3D058a5e)",
+      "[](https://img.shields.io/badge/-cypress-%2523E5E5E5?style=for-the-badge&logo=cypress&logoColor=058a5e)",
   },
   {
     name: "Jasmine",
@@ -4677,7 +4677,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Jasmine-%238A4182?style=for-the-badge&logo=Jasmine&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Jasmine-%25238A4182?style%3Dfor-the-badge%26logo%3DJasmine%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Jasmine-%25238A4182?style=for-the-badge&logo=Jasmine&logoColor=white)",
   },
   {
     name: "Jest",
@@ -4685,7 +4685,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-jest-%23C21325?style=for-the-badge&logo=jest&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-jest-%2523C21325?style%3Dfor-the-badge%26logo%3Djest%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-jest-%2523C21325?style=for-the-badge&logo=jest&logoColor=white)",
   },
   {
     name: "Mocha",
@@ -4693,7 +4693,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-mocha-%238D6748?style=for-the-badge&logo=mocha&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-mocha-%25238D6748?style%3Dfor-the-badge%26logo%3Dmocha%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-mocha-%25238D6748?style=for-the-badge&logo=mocha&logoColor=white)",
   },
   {
     name: "Selenium",
@@ -4701,7 +4701,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-selenium-%2543B02A?style%3Dfor-the-badge%26logo%3Dselenium%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-selenium-%2543B02A?style=for-the-badge&logo=selenium&logoColor=white)",
   },
   {
     name: "Testing Library",
@@ -4709,7 +4709,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-TestingLibrary-%23E33332?style=for-the-badge&logo=testing-library&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-TestingLibrary-%2523E33332?style%3Dfor-the-badge%26logo%3Dtesting-library%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-TestingLibrary-%2523E33332?style=for-the-badge&logo=testing-library&logoColor=white)",
   },
   {
     name: "Apache Subversion",
@@ -4717,7 +4717,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/subversion-%23809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/subversion-%2523809CC9.svg?style%3Dfor-the-badge%26logo%3Dsubversion%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/subversion-%2523809CC9.svg?style=for-the-badge&logo=subversion&logoColor=white)",
   },
   {
     name: "Bitbucket",
@@ -4725,7 +4725,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/bitbucket-%230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/bitbucket-%25230047B3.svg?style%3Dfor-the-badge%26logo%3Dbitbucket%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/bitbucket-%25230047B3.svg?style=for-the-badge&logo=bitbucket&logoColor=white)",
   },
   {
     name: "Forgejo",
@@ -4733,7 +4733,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/forgejo-%23FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/forgejo-%2523FB923C.svg?style%3Dfor-the-badge%26logo%3Dforgejo%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/forgejo-%2523FB923C.svg?style=for-the-badge&logo=forgejo&logoColor=white)",
   },
   {
     name: "Git",
@@ -4741,7 +4741,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/git-%2523F05033.svg?style%3Dfor-the-badge%26logo%3Dgit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/git-%2523F05033.svg?style=for-the-badge&logo=git&logoColor=white)",
   },
   {
     name: "Gitea",
@@ -4749,7 +4749,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425",
     markdown:
-      "[](https://img.shields.io/badge/Gitea-34495E?style%3Dfor-the-badge%26logo%3Dgitea%26logoColor%3D5D9425)",
+      "[](https://img.shields.io/badge/Gitea-34495E?style=for-the-badge&logo=gitea&logoColor=5D9425)",
   },
   {
     name: "Gitee",
@@ -4757,7 +4757,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Gitee-C71D23?style%3Dfor-the-badge%26logo%3Dgitee%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white)",
   },
   {
     name: "GitHub",
@@ -4765,7 +4765,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/github-%2523121011.svg?style%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/github-%2523121011.svg?style=for-the-badge&logo=github&logoColor=white)",
   },
   {
     name: "GitLab",
@@ -4773,7 +4773,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/gitlab-%2523181717.svg?style%3Dfor-the-badge%26logo%3Dgitlab%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/gitlab-%2523181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)",
   },
   {
     name: "Gitpod",
@@ -4781,7 +4781,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/gitpod-f06611.svg?style%3Dfor-the-badge%26logo%3Dgitpod%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/gitpod-f06611.svg?style=for-the-badge&logo=gitpod&logoColor=white)",
   },
   {
     name: "Mercurial",
@@ -4789,7 +4789,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/mercurial-999999.svg?style%3Dfor-the-badge%26logo%3Dmercurial%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/mercurial-999999.svg?style=for-the-badge&logo=mercurial&logoColor=white)",
   },
   {
     name: "Perforce Helix",
@@ -4797,7 +4797,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-PERFORCE%20HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-PERFORCE%2520HELIX-404040?style%3Dfor-the-badge%26logo%3DPerforce%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-PERFORCE%2520HELIX-404040?style=for-the-badge&logo=Perforce&logoColor=white)",
   },
   {
     name: "Fitbit",
@@ -4805,7 +4805,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/fitbit-00B0B9?style%3Dfor-the-badge%26logo%3Dfitbit%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/fitbit-00B0B9?style=for-the-badge&logo=fitbit&logoColor=white)",
   },
   {
     name: "AngelList",
@@ -4813,7 +4813,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black",
     markdown:
-      "[](https://img.shields.io/badge/AngelList-%2523D4D4D4.svg?style%3Dfor-the-badge%26logo%3DAngelList%26logoColor%3Dblack)",
+      "[](https://img.shields.io/badge/AngelList-%2523D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black)",
   },
   {
     name: "Behance",
@@ -4821,7 +4821,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Behance-1769ff?style%3Dfor-the-badge%26logo%3Dbehance%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Behance-1769ff?style=for-the-badge&logo=behance&logoColor=white)",
   },
   {
     name: "Freelancer",
@@ -4829,7 +4829,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/Freelancer-29B2FE?style%3Dfor-the-badge%26logo%3DFreelancer%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/Freelancer-29B2FE?style=for-the-badge&logo=Freelancer&logoColor=white)",
   },
   {
     name: "Hacker Earth",
@@ -4837,7 +4837,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/HackerEarth-%232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue",
     markdown:
-      "[](https://img.shields.io/badge/HackerEarth-%25232C3454.svg?style%3Dfor-the-badge%26logo%3DHackerEarth%26logoColor%3DBlue)",
+      "[](https://img.shields.io/badge/HackerEarth-%25232C3454.svg?style=for-the-badge&logo=HackerEarth&logoColor=Blue)",
   },
   {
     name: "HackerRank",
@@ -4845,7 +4845,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/-Hackerrank-2EC866?style%3Dfor-the-badge%26logo%3DHackerRank%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)",
   },
   {
     name: "Indeed",
@@ -4853,7 +4853,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/indeed-003A9B?style%3Dfor-the-badge%26logo%3Dindeed%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/indeed-003A9B?style=for-the-badge&logo=indeed&logoColor=white)",
   },
   {
     name: "Upwork",
@@ -4861,7 +4861,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white",
     markdown:
-      "[](https://img.shields.io/badge/UpWork-6FDA44?style%3Dfor-the-badge%26logo%3DUpwork%26logoColor%3Dwhite)",
+      "[](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)",
   },
 ];
 
