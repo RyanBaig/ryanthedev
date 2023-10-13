@@ -29,7 +29,7 @@ const repoBadges = [
     imageUrl:
       "https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white",
     markdown:
-      "https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white",
+      "[](https://img.shields.io/badge/google%20assistant-4285F4?style=for-the-badge&logo=google%20assistant&logoColor=white)",
   },
   {
     name: "Hyperledger",
