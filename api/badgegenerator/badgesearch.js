@@ -1,4 +1,4 @@
-import repoBadges from "./arrays.js"; // Import the 'repoBadges' array
+import repoBadges from "./scripts/arrays.js"; // Import the 'repoBadges' array
 
 function badgeSearch(req, res) {
   try {
