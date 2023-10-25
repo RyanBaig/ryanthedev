@@ -7,5 +7,15 @@
     "api/badgegenerator/badgesearch.js": {
       "maxDuration": 5
     }
-  }
+  },
+  "rewrites": [
+    {
+      "source": "/assets/images/vercel.svg",
+      "destination": "/assets/images/vercel.svg",
+      "headers": {
+        "Content-Type": "image/svg+xml"
+      }
+    }
+  ]
 }
+
