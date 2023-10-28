@@ -5351,6 +5351,126 @@ const repoBadges = [
     markdown:
       "[](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)",
   },
+  {
+    name: "Sololearn",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/-Sololearn-3a464b?style=for-the-badge&logo=Sololearn&logoColor=white)",
+  },
+  {
+    name: "Sourcetree",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Sourcetree-0052CC?style=for-the-badge&logo=Sourcetree&logoColor=white)",
+  },
+  {
+    name: "StackExchange",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/StackExchange-%23ffffff.svg?&style=for-the-badge&logo=StackExchange&logoColor=white)",
+  },
+  {
+    name: "StackOverflow",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)",
+  },
+  {
+    name: "Connect",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white)",
+  },
+  {
+    name: "TikTok",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)",
+  },
+  {
+    name: "Tumblr",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Tumblr-%2336465D.svg?&style=for-the-badge&logo=Tumblr&logoColor=white)",
+  },
+  {
+    name: "Twitter",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)",
+  },
+  {
+    name: "XDA Developers",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/xda%20developers-2DAAE9?style=for-the-badge&logo=xda-developers&logoColor=white)",
+  },
+  {
+    name: "App Store",
+    category: "Store",
+    imageUrl:
+      "https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/App_Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)",
+  },
+  {
+    name: "F Droid",
+    category: "Store",
+    imageUrl:
+      "https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/F%20Droid-1976D2?style=for-the-badge&logo=f-droid&logoColor=white)",
+  },
+  {
+    name: "Google Play",
+    category: "Store",
+    imageUrl:
+      "https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)",
+  },
+  {
+    name: "GumRoad",
+    category: "Store",
+    imageUrl:
+      "https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/GUMROAD-36a9ae?style=for-the-badge&logo=gumroad&logoColor=white)",
+  },
+  {
+    name: "Alpine Linux",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Alpine_Linux-0D597F?style=for-the-badge&logo=alpine-linux&logoColor=white)",
+  },
+  {
+    name: "Android",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)",
+  },
 ];
 
 export default repoBadges;
