@@ -5202,15 +5202,155 @@ const repoBadges = [
   {
     name: "GitLab",
     category: "Social",
-    imageUrl: "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white",
-    markdown: "[](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)"
+    imageUrl:
+      "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)",
   },
   {
     name: "Goodreads",
     category: "Social",
-    imageUrl: "https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white",
-    markdown: "[](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)"
-  }
+    imageUrl:
+      "https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)",
+  },
+  {
+    name: "HackerEarth",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue",
+    markdown:
+      "[](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)",
+  },
+  {
+    name: "HackerRank",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)",
+  },
+  {
+    name: "IconFinder",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Iconfinder-1A1B1F?style=for-the-badge&logo=Iconfinder&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Iconfinder-1A1B1F?style=for-the-badge&logo=Iconfinder&logoColor=white)",
+  },
+  {
+    name: "Instagram",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)",
+  },
+  {
+    name: "Kaggle",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=Kaggle&logoColor=whit)",
+  },
+  {
+    name: "LeetCode",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black",
+    markdown:
+      "[](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)",
+  },
+  {
+    name: "LinkedIn",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)",
+  },
+  {
+    name: "Linktree",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)",
+  },
+  {
+    name: "MyAnimeList",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Myanimelist-2E51A2?style=for-the-badge&logo=myanimelist&logoColor=white)",
+  },
+  {
+    name: "Pinterest",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Pinterest-%23E60023.svg?&style=for-the-badge&logo=Pinterest&logoColor=white)",
+  },
+  {
+    name: "Polywork",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/polywork-543DE0?style=for-the-badge&logo=polywork&logoColor=white)",
+  },
+  {
+    name: "Profile Visitors",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Profile%20Visitors-172B4D?style=for-the-badge&logo=Opsgenie&logoColor=white)",
+  },
+  {
+    name: "Quora",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Quora-%23B92B27.svg?&style=for-the-badge&logo=Quora&logoColor=white)",
+  },
+  {
+    name: "Reddit",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)",
+  },
+  {
+    name: "Research Gate",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Research_Gate-00CCBB.svg?&style=for-the-badge&logo=ResearchGate&logoColor=white)",
+  },
+  {
+    name: "Signal",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Signal-3A76F0?style=for-the-badge&logo=signal&logoColor=white)",
+  },
+  {
+    name: "Snapchat",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Snapchat-FFFC00?style=for-the-badge&logo=snapchat&logoColor=white)",
+  },
 ];
 
 export default repoBadges;
