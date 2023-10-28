@@ -4863,6 +4863,354 @@ const repoBadges = [
     markdown:
       "[](https://img.shields.io/badge/UpWork-6FDA44?style=for-the-badge&logo=Upwork&logoColor=white)",
   },
+  {
+    name: "Gmail",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)",
+  },
+  {
+    name: "SocialMe",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/SocialMe-00AFF0?style=for-the-badge&logo=Socialme&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/SocialMe-00AFF0?style=for-the-badge&logo=Socialme&logoColor=white)",
+  },
+  {
+    name: "ICQ New",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425",
+    markdown:
+      "[](https://img.shields.io/badge/icq_new-black?style=for-the-badge&logo=icq&logolColor=42F425)",
+  },
+  {
+    name: "Kik",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Kik-5AC710?style=for-the-badge&logo=kik&logoColor=white)",
+  },
+  {
+    name: "Line",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Line-00C300?style=for-the-badge&logo=line&logoColor=white)",
+  },
+  {
+    name: "Matrix",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/matrix-000000?style=for-the-badge&logo=Matrix&logoColor=white)",
+  },
+  {
+    name: "Facebook Messenger",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Messenger-00B2FF?style=for-the-badge&logo=messenger&logoColor=white)",
+  },
+  {
+    name: "Microsoft Outlook",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white)",
+  },
+  {
+    name: "ProtonMail",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)",
+  },
+  {
+    name: "Signal",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Signal-%23039BE5.svg?&style=for-the-badge&logo=Signal&logoColor=white)",
+  },
+  {
+    name: "Telegram",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)",
+  },
+  {
+    name: "TutaNota",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Tutanota-840010?style=for-the-badge&logo=Tutanota&logoColor=white)",
+  },
+  {
+    name: "Viber",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/viber-685EA9?style=for-the-badge&logo=viber&logoColor=white)",
+  },
+  {
+    name: "WeChat",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/WeChat-07C160?style=for-the-badge&logo=wechat&logoColor=white)",
+  },
+  {
+    name: "Website",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)",
+  },
+  {
+    name: "WhatsApp",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)",
+  },
+  {
+    name: "Wire",
+    category: "Contact",
+    imageUrl:
+      "https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Wire-B71C1C?style=for-the-badge&logo=wire&logoColor=white)",
+  },
+  {
+    name: "Slack",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)",
+  },
+  {
+    name: "Discord",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)",
+  },
+  {
+    name: "Microsoft Teams",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Microsoft_Teams-6264A7?style=for-the-badge&logo=microsoft-teams&logoColor=white)",
+  },
+  {
+    name: "Zoom",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)",
+  },
+  {
+    name: "Mattermost",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Mattermost-0058CC?style=for-the-badge&logo=Mattermost&logoColor=white)",
+  },
+  {
+    name: "Stack Exchange",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white)",
+  },
+  {
+    name: "Super User",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Super%20User-38A1CE?style=for-the-badge&logo=Super%20User&logoColor=white)",
+  },
+  {
+    name: "Pinterest",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=Pinterest&logoColor=white)",
+  },
+  {
+    name: "Reddit",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=Reddit&logoColor=white)",
+  },
+  {
+    name: "Stack Overflow",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)",
+  },
+  {
+    name: "Google",
+    category: "Group Chat",
+    imageUrl:
+      "https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge",
+    markdown:
+      "[](https://img.shields.io/badge/Google-4285F4?logo=google&logoColor=fff&style=for-the-badge)",
+  },
+  {
+    name: "Academia",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black",
+    markdown:
+      "[](https://img.shields.io/badge/Academia-fff?style=for-the-badge&logo=academia&logoColor=black)",
+  },
+  {
+    name: "Behance",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white)",
+  },
+  {
+    name: "Bio.Link",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/bio.link-000000%7D?style=for-the-badge&logo=biolink&logoColor=white)",
+  },
+  {
+    name: "BitBucket",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)",
+  },
+  {
+    name: "VK",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/вконтакте-%232E87FB.svg?&style=for-the-badge&logo=vk&logoColor=white)",
+  },
+  {
+    name: "CodeChef",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)",
+  },
+  {
+    name: "CodeForces",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)",
+  },
+  {
+    name: "CodePen",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)",
+  },
+  {
+    name: "CodeWars",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=Codewars&logoColor=white)",
+  },
+  {
+    name: "DeviantArt",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/DeviantArt-05CC47?style=for-the-badge&logo=deviantart&logoColor=white)",
+  },
+  {
+    name: "Dribbble",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Dribbble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)",
+  },
+  {
+    name: "Element",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Element-0DBD8B?style=for-the-badge&logo=element&logoColor=white)",
+  },
+  {
+    name: "Facebook",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)",
+  },
+  {
+    name: "GitHub",
+    category: "Social",
+    imageUrl:
+      "https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)",
+  },
+  {
+    name: "GitLab",
+    category: "Social",
+    imageUrl: "https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white",
+    markdown: "[](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)"
+  },
+  {
+    name: "Goodreads",
+    category: "Social",
+    imageUrl: "https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white",
+    markdown: "[](https://img.shields.io/badge/Goodreads-372213?style=for-the-badge&logo=goodreads&logoColor=white)"
+  }
 ];
 
 export default repoBadges;
