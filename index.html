@@ -1226,14 +1226,14 @@
             <form action="#" class="form" data-form>
 
               <div class="input-wrapper">
-                <input type="text" name="fullname" class="form-input"
+                <input type="text" class="form-input"
                   placeholder="Full name" required data-form-input>
 
-                <input type="email" name="email" class="form-input"
+                <input type="email" class="form-input"
                   placeholder="Email address" required data-form-input>
               </div>
 
-              <textarea name="message" class="form-input" placeholder="Your
+              <textarea class="form-input" placeholder="Your
                 Message" required data-form-input></textarea>
 
               <button class="form-btn" type="submit" disabled data-form-btn
@@ -1269,15 +1269,7 @@
       src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.esm.js"></script>
     <script nomodule
       src="https://unpkg.com/ionicons@7.1.0/dist/ionicons/ionicons.js"></script>
-    <script>
-      import { SMTPClient } from "emailjs";
-    document.querySelector('form').addEventListener('submit', function(event) {
-    event.preventDefault(); // Prevent the default form submission
-    submit(); // Call your submit function
-});
-
-
-  </script>
+    
   </body>
 
 </html>
