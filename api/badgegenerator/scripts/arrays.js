@@ -5479,6 +5479,411 @@ const repoBadges = [
     markdown:
       "[](https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=white)",
   },
+  {
+    name: "Arch Linux",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)",
+  },
+  {
+    name: "Artix Linux",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Artix_Linux-10A0CC?style=for-the-badge&logo=artix-linux&logoColor=white)",
+  },
+  {
+    name: "Cent OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Cent%20OS-262577?style=for-the-badge&logo=CentOS&logoColor=white)",
+  },
+  {
+    name: "Debian",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)",
+  },
+  {
+    name: "Deepin",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Deepin-007CFF?style=for-the-badge&logo=deepin&logoColor=white)",
+  },
+  {
+    name: "Elementary OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Elementary%20OS-64BAFF?style=for-the-badge&logo=elementary&logoColor=white)",
+  },
+  {
+    name: "Fedora",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white)",
+  },
+  {
+    name: "FreeBSD",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/freebsd-AB2B28?style=for-the-badge&logo=freebsd&logoColor=white)",
+  },
+  {
+    name: "Gentoo",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Gentoo-54487A?style=for-the-badge&logo=gentoo&logoColor=white)",
+  },
+  {
+    name: "iOS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)",
+  },
+  {
+    name: "Kali Linux",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)",
+  },
+  {
+    name: "LineageOS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/lineageos-167C80?style=for-the-badge&logo=lineageos&logoColor=white)",
+  },
+  {
+    name: "Linux",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black",
+    markdown:
+      "[](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)",
+  },
+  {
+    name: "Linux Mint",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)",
+  },
+  {
+    name: "macOS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)",
+  },
+  {
+    name: "Manjaro",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/manjaro-35BF5C?style=for-the-badge&logo=manjaro&logoColor=white)",
+  },
+  {
+    name: "NixOS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=nixos&logoColor=white)",
+  },
+  {
+    name: "OpenWrt",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/OpenWrt-00B5E2?style=for-the-badge&logo=OpenWrt&logoColor=white)",
+  },
+  {
+    name: "Pop!_OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Pop!_OS-48B9C7?style=for-the-badge&logo=Pop!_OS&logoColor=white)",
+  },
+  {
+    name: "ReactOS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white)",
+  },
+  {
+    name: "Red Hat",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white)",
+  },
+  {
+    name: "Sailfish OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Sailfish%20OS-053766?style=for-the-badge&logo=Sailfish%20OS&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Sailfish%20OS-053766?style=for-the-badge&logo=Sailfish%20OS&logoColor=white)",
+  },
+  {
+    name: "SUSE",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/SUSE-0C322C?style=for-the-badge&logo=SUSE&logoColor=white)",
+  },
+  {
+    name: "Tails",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Tails-56347C?style=for-the-badge&logo=tails&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Tails-56347C?&style=for-the-badge&logo=tails&logoColor=white)",
+  },
+  {
+    name: "Ubuntu",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)",
+  },
+  {
+    name: "Wear OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/-Wear%20OS-4285F4?style=for-the-badge&logo=wear-os&logoColor=white)",
+  },
+  {
+    name: "Windows",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)",
+  },
+  {
+    name: "Windows 95",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Windows_95-008080?style=for-the-badge&logo=windows-95&logoColor=white)",
+  },
+  {
+    name: "Windows XP",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Windows_XP-003399?style=for-the-badge&logo=windows-xp&logoColor=white)",
+  },
+  {
+    name: "Zorin OS",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Zorin%20OS-0CC1F3?style=for-the-badge&logo=zorin&logoColor=white)",
+  },
+  {
+    name: "openSUSE",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/openSUSE-%2364B345?style=for-the-badge&logo=openSUSE&logoColor=white)",
+  },
+  {
+    name: "WSL",
+    category: "OS",
+    imageUrl:
+      "https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/WSL-0a97f5?style=for-the-badge&logo=linux&logoColor=white)",
+  },
+  {
+    name: "Blogger",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white",
+    markdown: `![](https://img.shields.io/badge/Blogger-FF5722?style=for-the-badge&logo=blogger&logoColor=white)`,
+  },
+  {
+    name: "DEV.TO",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white",
+    markdown: `![](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)`,
+  },
+  {
+    name: "GeeksforGeeks",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white",
+    markdown: `![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)`,
+  },
+  {
+    name: "Hashnode",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)",
+  },
+  {
+    name: "Joomla",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Joomla-5091CD?style=for-the-badge&logo=joomla&logoColor=white)",
+  },
+  {
+    name: "Medium",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)",
+  },
+  {
+    name: "Micro Blog",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Micro%20blog-FF8800?style=for-the-badge&logo=Microdotblog&logoColor=white)",
+  },
+  {
+    name: "RSS",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/RSS-FFA500?style=for-the-badge&logo=rss&logoColor=white)",
+  },
+  {
+    name: "Wix",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Wix-000?style=for-the-badge&logo=wix&logoColor=white)",
+  },
+  {
+    name: "WordPress",
+    category: "Blog",
+    imageUrl:
+      "https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)",
+  },
+  {
+    name: "Amazon Prime",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=Amazon%20Prime&logoColor=white)",
+  },
+  {
+    name: "Crunchyroll",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)",
+  },
+  {
+    name: "Facebook Gaming",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Facebook_Gaming-005FED?style=for-the-badge&logo=facebook-gaming&logoColor=white)",
+  },
+  {
+    name: "Hulu",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Hulu-1CE783?style=for-the-badge&logo=hulu&logoColor=white)",
+  },
+  {
+    name: "Netflix",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)",
+  },
+  {
+    name: "Twitch",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)",
+  },
+  {
+    name: "YouTube",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)",
+  },
+  {
+    name: "YouTube Gaming",
+    category: "Streaming",
+    imageUrl:
+      "https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/YouTube_Gaming-FF0000?style=for-the-badge&logo=youtube-gaming&logoColor=white)",
+  },
+  {
+    name: "C#",
+    category: "Skills",
+    imageUrl:
+      "https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)",
+  },
 ];
 
 export default repoBadges;
