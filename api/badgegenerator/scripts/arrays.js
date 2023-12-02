@@ -5471,6 +5471,14 @@ const repoBadges = [
     markdown:
       "[](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)",
   },
+  {
+    name: "Google Bard",
+    category: "Artificial Intelligence and Bots",
+    imageUrl:
+      "https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=white",
+    markdown:
+      "[](https://img.shields.io/badge/Google%20Bard-886FBF?style=for-the-badge&logo=googlebard&logoColor=white)",
+  },
 ];
 
 export default repoBadges;
