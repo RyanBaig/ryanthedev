@@ -4,6 +4,28 @@
   <head>
     <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-4224351885218987"
       crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/@emailjs/browser@3/dist/email.min.js">
+    </script>
+    <script type="text/javascript">
+      const publicKey = "nWXRMTA5XypDV0MYY";
+      (function () {
+        emailjs.init(publicKey);
+      })();
+      function sendEmail(from) {
+        const templateParams = {
+          to_email: "rg5373429@gmail.com",
+          from_name: from,
+          message: document.getElementById('contact-input').value,
+        }
+        emailjs.send("default_service", "rk-template", templateParams, publicKey)
+          .then(function (response) {
+            console.log('SUCCESS!', response.status, response.text);
+          }, function (error) {
+            console.log('FAILED...', error);
+          });
+
+      }
+    </script>
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -1226,18 +1248,17 @@
             <form action="#" class="form" data-form>
 
               <div class="input-wrapper">
-                <input type="text" class="form-input"
+                <input type="text" id="contact-name" class="form-input"
                   placeholder="Full name" required data-form-input>
 
                 <input type="email" class="form-input"
                   placeholder="Email address" required data-form-input>
               </div>
 
-              <textarea class="form-input" placeholder="Your
-                Message" required data-form-input></textarea>
+              <textarea id="contact-input" class="form-input" placeholder="Your Message" required data-form-input></textarea>
 
               <button class="form-btn" type="submit" disabled data-form-btn
-                onclick="submit()">
+                onclick="sendEmail(document.getElementById('contact-name').value)">
                 <ion-icon name="paper-plane"></ion-icon>
                 <span>Send Message</span>
               </button>
